@@ -1,0 +1,64 @@
+{
+  "started_at": "2026-11-21T14:26:44.233605+00:00",
+  "finished_at": "2026-11-21T14:28:00.323638+00:00",
+  "day": "2026-11-21",
+  "sites": {
+    "intermark": {
+      "name": "Intermark",
+      "new": [],
+      "changed": [],
+      "removed": [],
+      "checked": 5,
+      "unchanged": 5,
+      "duplicates": [],
+      "errors": [],
+      "discovered": 26
+    },
+    "malina": {
+      "name": "Malina Property",
+      "new": [],
+      "changed": [],
+      "removed": [],
+      "checked": 6,
+      "unchanged": 6,
+      "duplicates": [],
+      "errors": [],
+      "discovered": 33
+    },
+    "invest7": {
+      "name": "Invest7",
+      "new": [],
+      "changed": [],
+      "removed": [],
+      "checked": 5,
+      "unchanged": 5,
+      "duplicates": [],
+      "errors": [],
+      "discovered": 3
+    },
+    "s5d": {
+      "name": "S5D",
+      "new": [],
+      "changed": [],
+      "removed": [],
+      "checked": 5,
+      "unchanged": 5,
+      "duplicates": [],
+      "errors": [],
+      "discovered": 33
+    },
+    "nfgroup": {
+      "name": "NF Group",
+      "new": [],
+      "changed": [],
+      "removed": [],
+      "checked": 5,
+      "unchanged": 5,
+      "duplicates": [],
+      "errors": [],
+      "discovered": 23
+    }
+  },
+  "total": 26,
+  "id": 2
+}

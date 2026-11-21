@@ -1,0 +1,138 @@
+{
+  "mode": "controlled_offline_replay",
+  "notice": "Цена Intermark:4289 изменена только в памяти для демонстрации. Это не сообщение о реальном изменении цены на сайте. Исходные 25 HTML и JSON не изменяются.",
+  "price_before_rub": "37900000",
+  "simulated_price_after_rub": "38000000",
+  "first_run": {
+    "started_at": "2026-11-21T14:22:59.988209+00:00",
+    "finished_at": "2026-11-21T14:23:06.274633+00:00",
+    "day": "2026-11-21",
+    "sites": {
+      "intermark": {
+        "name": "Intermark",
+        "new": [],
+        "changed": [
+          "intermark:4289"
+        ],
+        "removed": [],
+        "checked": 5,
+        "unchanged": 4,
+        "duplicates": [],
+        "errors": [],
+        "discovered": 0
+      },
+      "malina": {
+        "name": "Malina Property",
+        "new": [
+          "malina:189339"
+        ],
+        "changed": [],
+        "removed": [],
+        "checked": 5,
+        "unchanged": 5,
+        "duplicates": [],
+        "errors": [],
+        "discovered": 1
+      },
+      "invest7": {
+        "name": "Invest7",
+        "new": [],
+        "changed": [],
+        "removed": [],
+        "checked": 5,
+        "unchanged": 5,
+        "duplicates": [],
+        "errors": [],
+        "discovered": 0
+      },
+      "s5d": {
+        "name": "S5D",
+        "new": [],
+        "changed": [],
+        "removed": [],
+        "checked": 5,
+        "unchanged": 5,
+        "duplicates": [],
+        "errors": [],
+        "discovered": 0
+      },
+      "nfgroup": {
+        "name": "NF Group",
+        "new": [],
+        "changed": [],
+        "removed": [],
+        "checked": 5,
+        "unchanged": 5,
+        "duplicates": [],
+        "errors": [],
+        "discovered": 0
+      }
+    },
+    "total": 26,
+    "id": 1
+  },
+  "second_run": {
+    "started_at": "2026-11-21T14:23:06.319081+00:00",
+    "finished_at": "2026-11-21T14:23:12.710950+00:00",
+    "day": "2026-11-21",
+    "sites": {
+      "intermark": {
+        "name": "Intermark",
+        "new": [],
+        "changed": [],
+        "removed": [],
+        "checked": 5,
+        "unchanged": 5,
+        "duplicates": [],
+        "errors": [],
+        "discovered": 0
+      },
+      "malina": {
+        "name": "Malina Property",
+        "new": [],
+        "changed": [],
+        "removed": [],
+        "checked": 6,
+        "unchanged": 6,
+        "duplicates": [],
+        "errors": [],
+        "discovered": 0
+      },
+      "invest7": {
+        "name": "Invest7",
+        "new": [],
+        "changed": [],
+        "removed": [],
+        "checked": 5,
+        "unchanged": 5,
+        "duplicates": [],
+        "errors": [],
+        "discovered": 0
+      },
+      "s5d": {
+        "name": "S5D",
+        "new": [],
+        "changed": [],
+        "removed": [],
+        "checked": 5,
+        "unchanged": 5,
+        "duplicates": [],
+        "errors": [],
+        "discovered": 0
+      },
+      "nfgroup": {
+        "name": "NF Group",
+        "new": [],
+        "changed": [],
+        "removed": [],
+        "checked": 5,
+        "unchanged": 5,
+        "duplicates": [],
+        "errors": [],
+        "discovered": 0
+      }
+    },
+    "total": 26,
+    "id": 2
+  }
+}

@@ -1,0 +1,2215 @@
+{
+  "intermark:7536": {
+    "source": "intermark",
+    "listing_id": "7536",
+    "url": "https://intermark.ru/objects/arendnyy-biznes-moskovskaya-oblast-balashiha-mikrorayon-pavlino-15-2-7536",
+    "collected_at": "2026-11-21T13:30:38.344710Z",
+    "last_successful_check_at": "2026-11-21T13:30:38.344710Z",
+    "status": "active",
+    "title": "Арендный бизнес, 534 кв.м, Московская область, Балашиха, микрорайон Павлино, 15/2",
+    "description": "В продаже арендный бизнес с федеральным арендатором - Пятерочка, расположенный в густонаселенной локации. 6700 квартир и 16000 жителей в непосредственной близости, 20 метров от конечной остановки маршруток до метро обеспечивают постоянный рост выручки магазина. В помещении также находится ПВЗ Озон и банкоматы. Договор аренды от 8.09.26 на 10 лет с индексацией 5%.",
+    "price_rub": "145000000",
+    "area_m2": "534",
+    "address": "Московская область, Балашиха, микрорайон Павлино, 15/2",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C%20%D0%91%D0%B0%D0%BB%D0%B0%D1%88%D0%B8%D1%85%D0%B0%2C%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%BE%2C%2015/2",
+    "map_url_generated": true,
+    "metro": null,
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://img.intermark.ru/ims/town/commercial/7536/foto/sp/1440/4efdd2f969559e8b1c92e99f32ded48e.webp",
+      "https://img.intermark.ru/ims/town/commercial/7536/foto/sp/1440/2de40e0d504f583cda7465979f958a98.webp",
+      "https://img.intermark.ru/ims/town/commercial/7536/foto/sp/1440/f99687dd719c4e8bc6a39e946c3d9ef7.webp",
+      "https://img.intermark.ru/ims/town/commercial/7536/foto/sp/1440/e4bde0eb46b8f32ef4b4207f5344b4d4.webp",
+      "https://img.intermark.ru/ims/town/commercial/7536/foto/sp/1440/fac4ef5554f69012fe38d2f1d4e245a6.webp",
+      "https://img.intermark.ru/ims/town/commercial/7536/foto/sp/1440/135007e7085979a7d5b41ce54c0e54d7.webp"
+    ],
+    "tenants": [
+      {
+        "name": "Пятерочка",
+        "status": "current",
+        "lease_start": "2026-09-08",
+        "lease_end": null,
+        "lease_term_raw": "Договор аренды от 8.09.26 на 10 лет с индексацией 5%.",
+        "indexation_raw": "Договор аренды от 8.09.26 на 10 лет с индексацией 5%.",
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "В продаже арендный бизнес с федеральным арендатором - Пятерочка, расположенный в густонаселенной локации. 6700 квартир и 16000 жителей в непосредственной близости, 20 метров от конечной остановки маршруток до метро обеспечивают постоянный рост выручки магазина. В помещении также находится ПВЗ Озон и банкоматы. Договор аренды от 8.09.26 на 10 лет с индексацией 5%."
+      }
+    ],
+    "rent_current_rub": null,
+    "rent_future_rub": null,
+    "payback_years": null,
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "145 000 000 руб 271 535 руб / м²",
+        "location": ".price-text1"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "В продаже арендный бизнес с федеральным арендатором - Пятерочка, расположенный в густонаселенной локации. 6700 квартир и 16000 жителей в непосредственной близости, 20 метров от конечной остановки маршруток до метро обеспечивают постоянный рост выручки магазина. В помещении также находится ПВЗ Озон и банкоматы. Договор аренды от 8.09.26 на 10 лет с индексацией 5%.",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [
+      "Текущий МАП не подтверждён; окупаемость не рассчитана."
+    ],
+    "requested_category": "supermarket",
+    "replacement_note": null,
+    "html_file": "samples/html/intermark/7536.html",
+    "html_sha256": "bcd6891735b89116ec8fd32cf75e3316fce837edbcc36f72c7b41c0f4756f4e0"
+  },
+  "intermark:4289": {
+    "source": "intermark",
+    "listing_id": "4289",
+    "url": "https://intermark.ru/objects/arendnyy-biznes-zapadnyy-3-4289",
+    "collected_at": "2026-11-21T13:30:39.723118Z",
+    "last_successful_check_at": "2026-11-21T13:30:39.723118Z",
+    "status": "active",
+    "title": "Арендный бизнес, 102 кв.м, Москва, Новомосковский административный округ, район Внуково, жилой комплекс Квартал Западный, 3",
+    "description": "Продажа торгового помещения с арендаторами на 1 этаже в ЖК Квартал Западный, на первой линии главной дороги, рядом с ТПУ, 1 линия домов. Соседнее помещение с супермаркетом \"Пятерочка\". Станция МЦД \"Санино\" - 15 минут пешком. Дом введен в эксплуатацию. Арендаторы: 1. Аптека Ригла, МАП - 180 000, ДДА 7 лет, безусловная индексация 5% 2. Ozon, МАП - 120 000, ДДА 7 лет, безусловная индексация 5%.",
+    "price_rub": "37900000",
+    "area_m2": "102",
+    "address": "Москва, Новомосковский административный округ, район Внуково, жилой комплекс Квартал Западный, 3",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9D%D0%BE%D0%B2%D0%BE%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%2C%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%2C%20%D0%B6%D0%B8%D0%BB%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB%20%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9%2C%203",
+    "map_url_generated": true,
+    "metro": null,
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://img.intermark.ru/ims/town/commercial/4289/foto/sp/1440/31e6283624df561cafad361920f66f86.webp",
+      "https://img.intermark.ru/ims/town/commercial/4289/foto/sp/1440/985d319c9e289a43802fb0f1398904ce.webp",
+      "https://img.intermark.ru/ims/town/commercial/4289/foto/sp/1440/3c1b58cde9a97c86e390ed8c15d2f4c4.webp",
+      "https://img.intermark.ru/ims/town/commercial/4289/foto/sp/1440/69120381653d9a13f3b770453cf39e38.webp"
+    ],
+    "tenants": [
+      {
+        "name": "Аптека Ригла",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Аптека Ригла, МАП - 180 000, ДДА 7 лет, безусловная индексация 5% 2.",
+        "indexation_raw": "Аптека Ригла, МАП - 180 000, ДДА 7 лет, безусловная индексация 5% 2.",
+        "rent_current_rub": "180000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Аптека Ригла, МАП - 180 000, ДДА 7 лет, безусловная индексация 5% 2."
+      },
+      {
+        "name": "Ozon",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Ozon, МАП - 120 000, ДДА 7 лет, безусловная индексация 5%.",
+        "indexation_raw": "Ozon, МАП - 120 000, ДДА 7 лет, безусловная индексация 5%.",
+        "rent_current_rub": "120000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Ozon, МАП - 120 000, ДДА 7 лет, безусловная индексация 5%."
+      }
+    ],
+    "rent_current_rub": "300000",
+    "rent_future_rub": null,
+    "payback_years": "10.53",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "37 900 000 руб 371 568 руб / м²",
+        "location": ".price-text1"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Аптека Ригла, МАП - 180 000, ДДА 7 лет, безусловная индексация 5% 2.",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "tenants[1]",
+        "text": "Ozon, МАП - 120 000, ДДА 7 лет, безусловная индексация 5%.",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [
+      {
+        "field": "rent_current_rub",
+        "values": [
+          "120000",
+          "300000"
+        ],
+        "explanation": "Общий МАП отличается от суммы платежей арендаторов; сохранён общий МАП источника."
+      }
+    ],
+    "warnings": [],
+    "requested_category": "pharmacy",
+    "replacement_note": null,
+    "html_file": "samples/html/intermark/4289.html",
+    "html_sha256": "80e2377680369d70c010df63d0a4be9f89dad636d1bc72e9c679183763595190"
+  },
+  "intermark:7264": {
+    "source": "intermark",
+    "listing_id": "7264",
+    "url": "https://intermark.ru/objects/arendnyy-biznes-moskva-voroncovskaya-ulica-34s1-7264",
+    "collected_at": "2026-11-21T13:30:40.884686Z",
+    "last_successful_check_at": "2026-11-21T13:30:40.884686Z",
+    "status": "active",
+    "title": "Арендный бизнес, 90 кв.м, Москва, Воронцовская улица, 34с1",
+    "description": "Предлагается к продаже Красное&Белое в пешей доступности от станции метро Крестьянская Застава. Пересадочный узел двух линий - 250 метров, около 5 минут пешком до «Крестьянской Заставы». Более 15 000 жителей в радиусе 500 м от объекта. Сформированная центральная локация, более 15 000 жителей в радиусе 500 м. Жилая и деловая аудитория: поток в течение всего дня; Wildberries в том же доме даёт кросс-трафик. Отдельный вход, первый этаж. Прямая видимость с дороги, витрина вдоль тротуара. «Красное&Белое», договор ДДА на 15 лет от февраля 2024 года.",
+    "price_rub": "35000000",
+    "area_m2": "90",
+    "address": "Москва, Воронцовская улица, 34с1",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C%2034%D1%811",
+    "map_url_generated": true,
+    "metro": "Таганская",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://img.intermark.ru/ims/town/commercial/7264/foto/sp/1440/010b3820ed27f7a7177eafc151c5a1fa.webp",
+      "https://img.intermark.ru/ims/town/commercial/7264/foto/sp/1440/9ff8b457bff1084cf73f96e3c54e731c.webp",
+      "https://img.intermark.ru/ims/town/commercial/7264/foto/sp/1440/cde04997d95f318eb90157a9bd3a7f63.webp",
+      "https://img.intermark.ru/ims/town/commercial/7264/foto/sp/1440/2870318632d98c23af32175fb3fb80fe.webp",
+      "https://img.intermark.ru/ims/town/commercial/7264/foto/sp/1440/6ce334161f1871d687323d0a88c8150f.webp",
+      "https://img.intermark.ru/ims/town/commercial/7264/foto/sp/1440/a79a95a713c89fb965b7f403065dcea3.webp"
+    ],
+    "tenants": [
+      {
+        "name": "Красное и Белое",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Прямая видимость с дороги, витрина вдоль тротуара. «Красное&Белое», договор ДДА на 15 лет от февраля 2024 года.",
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Предлагается к продаже Красное&Белое в пешей доступности от станции метро Крестьянская Застава. Пересадочный узел двух линий - 250 метров, около 5 минут пешком до «Крестьянской Заставы». Более 15 000 жителей в радиусе 500 м от объекта. Сформированная центральная локация, более 15 000 жителей в радиусе 500 м. Жилая и деловая аудитория: поток в течение всего дня; Wildberries в том же доме даёт кросс-трафик. Отдельный вход, первый этаж. Прямая видимость с дороги, витрина вдоль тротуара. «Красное&Белое», договор ДДА на 15 лет от февраля 2024 года."
+      }
+    ],
+    "rent_current_rub": null,
+    "rent_future_rub": null,
+    "payback_years": null,
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "35 000 000 руб 388 888 руб / м²",
+        "location": ".price-text1"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Предлагается к продаже Красное&Белое в пешей доступности от станции метро Крестьянская Застава. Пересадочный узел двух линий - 250 метров, около 5 минут пешком до «Крестьянской Заставы». Более 15 000 жителей в радиусе 500 м от объекта. Сформированная центральная локация, более 15 000 жителей в радиусе 500 м. Жилая и деловая аудитория: поток в течение всего дня; Wildberries в том же доме даёт кросс-трафик. Отдельный вход, первый этаж. Прямая видимость с дороги, витрина вдоль тротуара. «Красное&Белое», договор ДДА на 15 лет от февраля 2024 года.",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [
+      "Текущий МАП не подтверждён; окупаемость не рассчитана."
+    ],
+    "requested_category": "alcohol_store",
+    "replacement_note": null,
+    "html_file": "samples/html/intermark/7264.html",
+    "html_sha256": "c2dbde25ab8ebb5468b0409343d1406a518364aa91ebdc6b424783a35b8d4ab0"
+  },
+  "intermark:7267": {
+    "source": "intermark",
+    "listing_id": "7267",
+    "url": "https://intermark.ru/objects/arendnyy-biznes-moskva-ulica-vertoletchikov-2ak1-7267",
+    "collected_at": "2026-11-21T13:30:42.230155Z",
+    "last_successful_check_at": "2026-11-21T13:30:42.230155Z",
+    "status": "active",
+    "title": "Арендный бизнес, 150 кв.м, Москва, улица Вертолётчиков, 2Ак1",
+    "description": "Предлагается к продаже помещение Красное Белое и Ермолино в районе Некрасовка. Метро Некрасовка 900 метров, 10–12 минут пешком. Два действующих арендатора - «Красное & Белое» и «Ермолино», отдельные входы и витрины. Около 8 000 квартир в радиусе 500 м. Первая линия, автобусная остановка в 100 метрах, парковка перед фасадом. Пятёрочка, ВкусВилл, Магнит, Дикси и аптеки в непосредственном окружении. Красное Белое - 95 м² ДДА от 2020, на 10 лет, Ермолино - 55 м² КДА от 03.2026.",
+    "price_rub": "57500000",
+    "area_m2": "150",
+    "address": "Москва, улица Вертолётчиков, 2Ак1",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D1%83%D0%BB%D0%B8%D1%86%D0%B0%20%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2%2C%202%D0%90%D0%BA1",
+    "map_url_generated": true,
+    "metro": "Некрасовка",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://img.intermark.ru/ims/town/commercial/7267/foto/sp/1440/bbcd6cbb2d48304b493cbc618c121dce.webp",
+      "https://img.intermark.ru/ims/town/commercial/7267/foto/sp/1440/2e3f7343415070603920a0cda874c88e.webp",
+      "https://img.intermark.ru/ims/town/commercial/7267/foto/sp/1440/32dff1cddb050808feb490c43d9f125d.webp",
+      "https://img.intermark.ru/ims/town/commercial/7267/foto/sp/1440/d1ffb88aee871e5d5a0da72cac1455d3.webp",
+      "https://img.intermark.ru/ims/town/commercial/7267/foto/sp/1440/6f6da586105338840b63e24a828ebe9c.webp"
+    ],
+    "tenants": [
+      {
+        "name": "Красное & Белое",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Красное Белое - 95 м² ДДА от 2020, на 10 лет, Ермолино - 55 м² КДА от 03.2026.",
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Предлагается к продаже помещение Красное Белое и Ермолино в районе Некрасовка. Метро Некрасовка 900 метров, 10–12 минут пешком. Два действующих арендатора - «Красное & Белое» и «Ермолино», отдельные входы и витрины. Около 8 000 квартир в радиусе 500 м. Первая линия, автобусная остановка в 100 метрах, парковка перед фасадом. Пятёрочка, ВкусВилл, Магнит, Дикси и аптеки в непосредственном окружении. Красное Белое - 95 м² ДДА от 2020, на 10 лет, Ермолино - 55 м² КДА от 03.2026."
+      },
+      {
+        "name": "Ермолино",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Красное Белое - 95 м² ДДА от 2020, на 10 лет, Ермолино - 55 м² КДА от 03.2026.",
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Предлагается к продаже помещение Красное Белое и Ермолино в районе Некрасовка. Метро Некрасовка 900 метров, 10–12 минут пешком. Два действующих арендатора - «Красное & Белое» и «Ермолино», отдельные входы и витрины. Около 8 000 квартир в радиусе 500 м. Первая линия, автобусная остановка в 100 метрах, парковка перед фасадом. Пятёрочка, ВкусВилл, Магнит, Дикси и аптеки в непосредственном окружении. Красное Белое - 95 м² ДДА от 2020, на 10 лет, Ермолино - 55 м² КДА от 03.2026."
+      }
+    ],
+    "rent_current_rub": null,
+    "rent_future_rub": null,
+    "payback_years": null,
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "57 500 000 руб 383 333 руб / м²",
+        "location": ".price-text1"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Предлагается к продаже помещение Красное Белое и Ермолино в районе Некрасовка. Метро Некрасовка 900 метров, 10–12 минут пешком. Два действующих арендатора - «Красное & Белое» и «Ермолино», отдельные входы и витрины. Около 8 000 квартир в радиусе 500 м. Первая линия, автобусная остановка в 100 метрах, парковка перед фасадом. Пятёрочка, ВкусВилл, Магнит, Дикси и аптеки в непосредственном окружении. Красное Белое - 95 м² ДДА от 2020, на 10 лет, Ермолино - 55 м² КДА от 03.2026.",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "tenants[1]",
+        "text": "Предлагается к продаже помещение Красное Белое и Ермолино в районе Некрасовка. Метро Некрасовка 900 метров, 10–12 минут пешком. Два действующих арендатора - «Красное & Белое» и «Ермолино», отдельные входы и витрины. Около 8 000 квартир в радиусе 500 м. Первая линия, автобусная остановка в 100 метрах, парковка перед фасадом. Пятёрочка, ВкусВилл, Магнит, Дикси и аптеки в непосредственном окружении. Красное Белое - 95 м² ДДА от 2020, на 10 лет, Ермолино - 55 м² КДА от 03.2026.",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [
+      "Текущий МАП не подтверждён; окупаемость не рассчитана."
+    ],
+    "requested_category": "multiple_tenants",
+    "replacement_note": null,
+    "html_file": "samples/html/intermark/7267.html",
+    "html_sha256": "2464e4b9af383cd648640624dcbfcf56592f2a3bce6413e20dc3b0d95517e118"
+  },
+  "intermark:7460": {
+    "source": "intermark",
+    "listing_id": "7460",
+    "url": "https://intermark.ru/objects/arendnyy-biznes-moskva-klinskaya-ulica-2a-7460",
+    "collected_at": "2026-11-21T13:30:43.638484Z",
+    "last_successful_check_at": "2026-11-21T13:30:43.638484Z",
+    "status": "active",
+    "title": "Арендный бизнес, 102.8 кв.м, Москва, Клинская улица, 2А",
+    "description": "Предлагается к продаже «ЗДРАСТЕ» в ЖК «Мой Адрес на Клинской». Сеть кафе «Здрасте» — это демократичный премиум-сегмент: проект, который вырос в более 100 точек. Срок договора: 5 лет. Индексация автоматическая: 6% через каждые 12 месяцев. Помещение: Помещение свободного назначения. Этаж первый. Угловое помещение, планировка - свободная. Окна - витринные по фасаду. Парковка - свободная. Преимущества локации: Лучшее помещение в ЖК. Напротив центрального входа в парк. Угловое помещение. Напротив две автобусные остановки. Парковка перед входом. Напротив старый жилой фонд без коммерческих помещений. Видимость всему району. Находится на въезде в ЖК. В ЖК 2927 квартиры.",
+    "price_rub": "85500000",
+    "area_m2": "102.8",
+    "address": "Москва, Клинская улица, 2А",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9A%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C%202%D0%90",
+    "map_url_generated": true,
+    "metro": "Ховрино",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://img.intermark.ru/ims/town/commercial/7460/foto/sp/1440/18f898753a69f6319ad201557a104958.webp",
+      "https://img.intermark.ru/ims/town/commercial/7460/foto/sp/1440/f0068386dab09388c83a939fd62a3b74.webp",
+      "https://img.intermark.ru/ims/town/commercial/7460/foto/sp/1440/1101268abd3a2207ffb73e739cc6325c.webp",
+      "https://img.intermark.ru/ims/town/commercial/7460/foto/sp/1440/4e0070870259d2f01b9c1c9b65e3e718.webp"
+    ],
+    "tenants": [
+      {
+        "name": "ЗДРАСТЕ",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Срок договора: 5 лет.",
+        "indexation_raw": "Индексация автоматическая: 6% через каждые 12 месяцев.",
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Предлагается к продаже «ЗДРАСТЕ» в ЖК «Мой Адрес на Клинской». Сеть кафе «Здрасте» — это демократичный премиум-сегмент: проект, который вырос в более 100 точек. Срок договора: 5 лет. Индексация автоматическая: 6% через каждые 12 месяцев. Помещение: Помещение свободного назначения. Этаж первый. Угловое помещение, планировка - свободная. Окна - витринные по фасаду. Парковка - свободная. Преимущества локации: Лучшее помещение в ЖК. Напротив центрального входа в парк. Угловое помещение. Напротив две автобусные остановки. Парковка перед входом. Напротив старый жилой фонд без коммерческих помещений. Видимость всему району. Находится на въезде в ЖК. В ЖК 2927 квартиры."
+      }
+    ],
+    "rent_current_rub": null,
+    "rent_future_rub": null,
+    "payback_years": null,
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "85 500 000 руб 831 712 руб / м²",
+        "location": ".price-text1"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Предлагается к продаже «ЗДРАСТЕ» в ЖК «Мой Адрес на Клинской». Сеть кафе «Здрасте» — это демократичный премиум-сегмент: проект, который вырос в более 100 точек. Срок договора: 5 лет. Индексация автоматическая: 6% через каждые 12 месяцев. Помещение: Помещение свободного назначения. Этаж первый. Угловое помещение, планировка - свободная. Окна - витринные по фасаду. Парковка - свободная. Преимущества локации: Лучшее помещение в ЖК. Напротив центрального входа в парк. Угловое помещение. Напротив две автобусные остановки. Парковка перед входом. Напротив старый жилой фонд без коммерческих помещений. Видимость всему району. Находится на въезде в ЖК. В ЖК 2927 квартиры.",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [
+      "Текущий МАП не подтверждён; окупаемость не рассчитана."
+    ],
+    "requested_category": "future_tenant",
+    "replacement_note": "В просмотренной продаже и поисковой выдаче Intermark не найдена карточка с подтверждённым будущим арендатором. Замена: действующая кофейня «Здрасте» с условиями договора и индексации. Арендатор не помечен как будущий.",
+    "html_file": "samples/html/intermark/7460.html",
+    "html_sha256": "b4dd6874697f9f4429d6c3f27b64e7809a7c8dc378800cb76278f6e4e78d9b41"
+  },
+  "malina:169668": {
+    "source": "malina",
+    "listing_id": "169668",
+    "url": "https://malinaproperty.ru/property/propertiesRetail/169668",
+    "collected_at": "2026-11-21T13:30:38.265656Z",
+    "last_successful_check_at": "2026-11-21T13:30:38.265656Z",
+    "status": "active",
+    "title": "Продажа торгового помещения с супермаркетом Магнит",
+    "description": "Продажа торгового помещения 477,5 м2 с супермаркетом \"Магнит\" на проспекте Вернадского, д. 15 (15 минут пешком от метро проспект Вернадского). 1 линия дороги. Помещение 477,5 м2 располагается на 1 этаже, смешанная планировка, два отдельных входа с фасада и один вход со двора, высота потолка 3 м, окна по фасаду. Электрическая мощность 80 кВт. Парковка перед фасадом. Место для размещения рекламы. Интенсивный автомобильный и пешеходный трафик вдоль помещения. Окружение: супермаркет \"Пятерочка\", аптека \"Горздрав\", пункт выдачи заказов \"ozon\". Арендатор: супермаркет \"Магнит\", договор аренды на 10 лет от 04.07.2025 года, месячная арендная плата 1 700 000 рублей, индексация 4 % (безусловная) с 3 года аренды. Окупаемость 9,6 лет. Стоимость 183.6 млн.рублей. Без комиссии.",
+    "price_rub": "183600000",
+    "area_m2": "477.5",
+    "address": "г. Москва, ул. проспект Вернадского д. 15",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B3.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D1%83%D0%BB.%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%92%D0%B5%D1%80%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B4.%2015",
+    "map_url_generated": true,
+    "metro": "Университет (пешком 15 мин.)",
+    "vat": null,
+    "commission": "Без комиссии",
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://malinaproperty.ru/upload/resized/1200/800/100/69046dc6ac63f.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/69046dcc14d29.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/69046dcc1dae5.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/69046e7d4830a.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/69046ebade014.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/69046dc6ac63f.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/69046dcc14d29.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/69046dcc1dae5.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/69046e7d4830a.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/69046ebade014.jpg"
+    ],
+    "tenants": [
+      {
+        "name": "супермаркет \"Магнит\"",
+        "status": "current",
+        "lease_start": "2025-07-04",
+        "lease_end": null,
+        "lease_term_raw": "супермаркет \"Магнит\", договор аренды на 10 лет от 04.07.2025 года, месячная арендная плата 1 700 000 рублей, индексация 4 % (безусловная) с 3 года аренды.\nСрок договора аренды от: 2025\nСрок договора аренды до: 2035",
+        "indexation_raw": "супермаркет \"Магнит\", договор аренды на 10 лет от 04.07.2025 года, месячная арендная плата 1 700 000 рублей, индексация 4 % (безусловная) с 3 года аренды.\nЕжегодная индексация: 4% безусловная с 3-ого года\nучета индексации)",
+        "rent_current_rub": "1700000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "супермаркет \"Магнит\", договор аренды на 10 лет от 04.07.2025 года, месячная арендная плата 1 700 000 рублей, индексация 4 % (безусловная) с 3 года аренды. Окупаемость 9,6 лет. Стоимость 183.6 млн.рублей. Без комиссии.\nПлощадь: 477 м2\nЭтаж: 1\nПланировка: Открытая\nОтделка: Качественный ремонт\nВысота потолков: 3 м\nМощность электроэнергии: 80 кВт\nПарковка: Перед фасадом\nАрендатор: супермаркет \"Магнит\"\nСрок договора аренды от: 2025\nСрок договора аренды до: 2035\nМесячная арендная плата: 1 700 000 руб.\nГодовой арендный поток: 20 400 000 руб.\nЕжегодная индексация: 4% безусловная с 3-ого года\nОкупаемость: 9 лет (без\n учета индексации)\nДоходность: 11.1% годовых\nЦена за м2: 384 905 руб\nОбщая стоимость: 183 600 000 руб\nКомиссия: Без комиссии"
+      }
+    ],
+    "rent_current_rub": "1700000",
+    "rent_future_rub": null,
+    "payback_years": "9.00",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "Цена объекта : 183 600 000 a",
+        "location": ".b--item-info__number: Цена объекта"
+      },
+      {
+        "field": "rent",
+        "text": "МАП: 1 700 000 руб.",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "супермаркет \"Магнит\", договор аренды на 10 лет от 04.07.2025 года, месячная арендная плата 1 700 000 рублей, индексация 4 % (безусловная) с 3 года аренды. Окупаемость 9,6 лет. Стоимость 183.6 млн.рублей. Без комиссии.\nПлощадь: 477 м2\nЭтаж: 1\nПланировка: Открытая\nОтделка: Качественный ремонт\nВысота потолков: 3 м\nМощность электроэнергии: 80 кВт\nПарковка: Перед фасадом\nАрендатор: супермаркет \"Магнит\"\nСрок договора аренды от: 2025\nСрок договора аренды до: 2035\nМесячная арендная плата: 1 700 000 руб.\nГодовой арендный поток: 20 400 000 руб.\nЕжегодная индексация: 4% безусловная с 3-ого года\nОкупаемость: 9 лет (без\n учета индексации)\nДоходность: 11.1% годовых\nЦена за м2: 384 905 руб\nОбщая стоимость: 183 600 000 руб\nКомиссия: Без комиссии",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "price_rub",
+        "text": "Стоимость 183.6 млн.рублей",
+        "location": "description"
+      }
+    ],
+    "discrepancies": [
+      {
+        "field": "area_m2",
+        "values": [
+          "477",
+          "477.5"
+        ],
+        "explanation": "Площадь в виджете и тексте различается; значения сохранены для проверки."
+      }
+    ],
+    "warnings": [],
+    "requested_category": "supermarket",
+    "replacement_note": null,
+    "html_file": "samples/html/malina/169668.html",
+    "html_sha256": "c36bf70659f75f51066cf1429f666a5bbc6289e09e94e6149ecb3d72f8b02ac3"
+  },
+  "malina:190232": {
+    "source": "malina",
+    "listing_id": "190232",
+    "url": "https://malinaproperty.ru/property/propertiesRetail/190232",
+    "collected_at": "2026-11-21T13:30:39.458332Z",
+    "last_successful_check_at": "2026-11-21T13:30:39.458332Z",
+    "status": "active",
+    "title": "Продажа помещения с арендатором аптека \"Здравсити\"",
+    "description": "Продажа торгового помещения 49,5 м² с арендатором — сетевой аптекой \"Здравсити\" на ул. Александры Монаховой, д. 85к2 (3 минуты пешком от метро Потапово). Помещение 49,5 м² располагается на 1 этаже, открытая планировка, отдельный вход, высота потолка 4 м, витринные окна по фасаду. Электрическая мощность 10 кВт. Место для размещения рекламы. Помещение располагается в центре ЖК \"Бунинские луга\" на главной прогулочной площади. Жилой квартал \"Бунинские луга\" расположен в Новой Москве, в семи километрах от МКАД. Проект представляет собой обособленный микрорайон комфорт-класса, полностью обеспеченный собственной инфраструктурой. Комплекс состоит из 54 корпусов, рассчитанных на 32 500 жителей. Большая часть из запланированных 54 жилых домов уже сдана, заселена. Арендатор: сетевая аптека \"Здравсити\". Договор аренды подписан на 10 лет с февраля 2025 года. Ежегодная безусловная индексация 5% с 3-го года аренды. Стоимость 32.900.000 рублей. Без комиссии.",
+    "price_rub": "32900000",
+    "area_m2": "49.5",
+    "address": "г. Москва, поселок Коммунарка, ул. Александры Монаховой д. 85 корпус 2",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B3.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%BF%D0%BE%D1%81%D0%B5%D0%BB%D0%BE%D0%BA%20%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0%D1%80%D0%BA%D0%B0%2C%20%D1%83%D0%BB.%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D1%8B%20%D0%9C%D0%BE%D0%BD%D0%B0%D1%85%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B4.%2085%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%202",
+    "map_url_generated": true,
+    "metro": "Потапово (пешком 3 мин.)",
+    "vat": null,
+    "commission": "Без комиссии",
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6aed8a10f0307.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6aed8a10f07ae.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6aed8a11099dc.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6aed8a10e7faf.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6acf6866155ad.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6acf57bf8ddf5.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6aed8a10f0307.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6aed8a10f07ae.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6aed8a11099dc.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6aed8a10e7faf.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6acf6866155ad.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6acf57bf8ddf5.jpg"
+    ],
+    "tenants": [
+      {
+        "name": "сетевая аптека \"Здравсити\"",
+        "status": "current",
+        "lease_start": "2025-02-27",
+        "lease_end": null,
+        "lease_term_raw": "Договор аренды подписан на 10 лет с февраля 2025 года.\nСрок договора аренды от: 27.02.2025\nСрок договора аренды до: 2035",
+        "indexation_raw": "Ежегодная безусловная индексация 5% с 3-го года аренды.\nЕжегодная индексация: 5%\nучета индексации)",
+        "rent_current_rub": "185000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "сетевая аптека \"Здравсити\". Договор аренды подписан на 10 лет с февраля 2025 года. Ежегодная безусловная индексация 5% с 3-го года аренды. Стоимость 32.900.000 рублей. Без комиссии.\nПлощадь: 50 м2\nЭтаж: 1\nПланировка: Открытая\nОтделка: За выездом арендатора\nМощность электроэнергии: 10 кВт\nАрендатор: сетевая аптека \"Здравсити\"\nСрок договора аренды от: 27.02.2025\nСрок договора аренды до: 2035\nМесячная арендная плата: 185 000 руб.\nГодовой арендный поток: 2 220 000 руб.\nЕжегодная индексация: 5%\nОкупаемость: 14.8 лет (без\n учета индексации)\nДоходность: 6.7% годовых\nЦена за м2: 658 000 руб\nОбщая стоимость: 32 900 000 руб\nКомиссия: Без комиссии"
+      }
+    ],
+    "rent_current_rub": "185000",
+    "rent_future_rub": null,
+    "payback_years": "14.82",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "Цена объекта : 32 900 000 a",
+        "location": ".b--item-info__number: Цена объекта"
+      },
+      {
+        "field": "rent",
+        "text": "МАП: 185 000 руб.",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "сетевая аптека \"Здравсити\". Договор аренды подписан на 10 лет с февраля 2025 года. Ежегодная безусловная индексация 5% с 3-го года аренды. Стоимость 32.900.000 рублей. Без комиссии.\nПлощадь: 50 м2\nЭтаж: 1\nПланировка: Открытая\nОтделка: За выездом арендатора\nМощность электроэнергии: 10 кВт\nАрендатор: сетевая аптека \"Здравсити\"\nСрок договора аренды от: 27.02.2025\nСрок договора аренды до: 2035\nМесячная арендная плата: 185 000 руб.\nГодовой арендный поток: 2 220 000 руб.\nЕжегодная индексация: 5%\nОкупаемость: 14.8 лет (без\n учета индексации)\nДоходность: 6.7% годовых\nЦена за м2: 658 000 руб\nОбщая стоимость: 32 900 000 руб\nКомиссия: Без комиссии",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [
+      {
+        "field": "area_m2",
+        "values": [
+          "50",
+          "49.5"
+        ],
+        "explanation": "Площадь в виджете и тексте различается; значения сохранены для проверки."
+      }
+    ],
+    "warnings": [],
+    "requested_category": "pharmacy",
+    "replacement_note": null,
+    "html_file": "samples/html/malina/190232.html",
+    "html_sha256": "f1bc216de1923cbd203a52dd84073cc90c8a6e5ae02ec53f6cbe814942ce823f"
+  },
+  "malina:178416": {
+    "source": "malina",
+    "listing_id": "178416",
+    "url": "https://malinaproperty.ru/property/propertiesRetail/178416",
+    "collected_at": "2026-11-21T13:30:40.808823Z",
+    "last_successful_check_at": "2026-11-21T13:30:40.808823Z",
+    "status": "active",
+    "title": "Продажа помещения в ЖК Бутово парк с магазином \"Винлаб\"",
+    "description": "Продажа торгового помещения 102,6 м2 с арендатором магазин \"Винлаб\" по адресу Московская обл., г. Видное, пгт. Дрожжино, ул. Южная, д 12 корпус 1 (10 минут транспортом от м. Аннино). Помещение площадью 102,6 м2, располагается на 1 этаже, открытая планировка, отдельный вход с первой линии, высота потолка 4 м, витринные окна по фасаду. Место для размещения рекламы. Помещение угловое, реклама на две стороны дома. Располагается на 1-й линии домов. Помещение располагается в жилом комплексе \"Бутово парк-2\". До станции МЦД \"Бутово\" можно доехать за 10 минут. Дом введен в эксплуатацию. Арендатор: магазин \"Винлаб\", долгосрочный договор аренды на 10 лет с 2024 года. Стоимость продажи 50 000 000 рублей. Без комиссии.",
+    "price_rub": "50000000",
+    "area_m2": "102.6",
+    "address": "г. Видное, пгт Дрожжино, ул. Южная д. 12 корпус 1",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B3.%20%D0%92%D0%B8%D0%B4%D0%BD%D0%BE%D0%B5%2C%20%D0%BF%D0%B3%D1%82%20%D0%94%D1%80%D0%BE%D0%B6%D0%B6%D0%B8%D0%BD%D0%BE%2C%20%D1%83%D0%BB.%20%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%B4.%2012%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%201",
+    "map_url_generated": true,
+    "metro": "Аннино (транспортом 10 мин.)",
+    "vat": null,
+    "commission": "Без комиссии",
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://malinaproperty.ru/upload/resized/1200/800/100/66b0c733d9085.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6aa0f4c996ec0.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6aa0f4c986dd6.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6aa0f4c9825ea.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6aa0f4c9808eb.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/66b0c733d3937.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/66b0c733bc15c.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/66b0c7364318a.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6abd317fe1c5e.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/66605187a2546.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/66b0c733d9085.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6aa0f4c996ec0.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6aa0f4c986dd6.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6aa0f4c9825ea.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6aa0f4c9808eb.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/66b0c733d3937.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/66b0c733bc15c.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/66b0c7364318a.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6abd317fe1c5e.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/66605187a2546.jpg"
+    ],
+    "tenants": [
+      {
+        "name": "магазин \"Винлаб\"",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Арендатор: магазин \"Винлаб\", долгосрочный договор аренды на 10 лет с 2024 года.\nСрок договора аренды от: 2024\nСрок договора аренды до: 2034",
+        "indexation_raw": "Ежегодная индексация: 3\nучета индексации)",
+        "rent_current_rub": "300000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": "Южная, д 12 корпус 1 (10 минут транспортом от м.",
+        "source_excerpt": "магазин \"Винлаб\" по адресу Московская обл., г. Видное, пгт. Дрожжино, ул. Южная, д 12 корпус 1 (10 минут транспортом от м. Аннино). Помещение площадью 102,6 м2, располагается на 1 этаже, открытая планировка, отдельный вход с первой линии, высота потолка 4 м, витринные окна по фасаду. Место для размещения рекламы. Помещение угловое, реклама на две стороны дома. Располагается на 1-й линии домов. Помещение располагается в жилом комплексе \"Бутово парк-2\". До станции МЦД \"Бутово\" можно доехать за 10 минут. Дом введен в эксплуатацию. Арендатор: магазин \"Винлаб\", долгосрочный договор аренды на 10 лет с 2024 года. Стоимость продажи 50 000 000 рублей. Без комиссии.\nПлощадь: 103 м2\nЭтаж: 1\nПланировка: Открытая\nОтделка: Качественный ремонт\nВысота потолков: 4 м\nПарковка: Перед фасадом\nАрендатор: магазин \"Винлаб\"\nСрок договора аренды от: 2024\nСрок договора аренды до: 2034\nМесячная арендная плата: 300 000 руб.\nГодовой арендный поток: 3 600 000 руб.\nЕжегодная индексация: 3\nОкупаемость: 13.9 лет (без\n учета индексации)\nДоходность: 7.2% годовых\nЦена за м2: 485 436 руб\nОбщая стоимость: 50 000 000 руб\nКомиссия: Без комиссии"
+      }
+    ],
+    "rent_current_rub": "300000",
+    "rent_future_rub": null,
+    "payback_years": "13.89",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "Цена объекта : 50 000 000 a",
+        "location": ".b--item-info__number: Цена объекта"
+      },
+      {
+        "field": "rent",
+        "text": "МАП: 300 000 руб.",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "магазин \"Винлаб\" по адресу Московская обл., г. Видное, пгт. Дрожжино, ул. Южная, д 12 корпус 1 (10 минут транспортом от м. Аннино). Помещение площадью 102,6 м2, располагается на 1 этаже, открытая планировка, отдельный вход с первой линии, высота потолка 4 м, витринные окна по фасаду. Место для размещения рекламы. Помещение угловое, реклама на две стороны дома. Располагается на 1-й линии домов. Помещение располагается в жилом комплексе \"Бутово парк-2\". До станции МЦД \"Бутово\" можно доехать за 10 минут. Дом введен в эксплуатацию. Арендатор: магазин \"Винлаб\", долгосрочный договор аренды на 10 лет с 2024 года. Стоимость продажи 50 000 000 рублей. Без комиссии.\nПлощадь: 103 м2\nЭтаж: 1\nПланировка: Открытая\nОтделка: Качественный ремонт\nВысота потолков: 4 м\nПарковка: Перед фасадом\nАрендатор: магазин \"Винлаб\"\nСрок договора аренды от: 2024\nСрок договора аренды до: 2034\nМесячная арендная плата: 300 000 руб.\nГодовой арендный поток: 3 600 000 руб.\nЕжегодная индексация: 3\nОкупаемость: 13.9 лет (без\n учета индексации)\nДоходность: 7.2% годовых\nЦена за м2: 485 436 руб\nОбщая стоимость: 50 000 000 руб\nКомиссия: Без комиссии",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [
+      {
+        "field": "area_m2",
+        "values": [
+          "103",
+          "102.6"
+        ],
+        "explanation": "Площадь в виджете и тексте различается; значения сохранены для проверки."
+      }
+    ],
+    "warnings": [],
+    "requested_category": "alcohol_store",
+    "replacement_note": null,
+    "html_file": "samples/html/malina/178416.html",
+    "html_sha256": "20047abe29f0c29fe02d4a93604cbc13eeb51534a731c26f75ee82fa8b0fce14"
+  },
+  "malina:187384": {
+    "source": "malina",
+    "listing_id": "187384",
+    "url": "https://malinaproperty.ru/property/propertiesRetail/187384",
+    "collected_at": "2026-11-21T13:30:42.135329Z",
+    "last_successful_check_at": "2026-11-21T13:30:42.135329Z",
+    "status": "active",
+    "title": "Продажа помещения в ЖК Люблинский парк с арендаторами",
+    "description": "Продажа торгового помещения с арендатором Ozon, 65 м2 на ул. Люблинская, д. 78 к2 (5 минут транспортом от метро Братиславская). 1 линия домов. Помещение 65 м2, располагается на 1 этаже, открытая планировка, отдельный вход с фасада, высота потолка 4,5 м, витринные окна по фасаду. Электрическая мощность 13 кВт. Централизованные коммуникации: теплоснабжение, холодное и горячее водоснабжение, городская канализация. Парковка перед фасадом. Место для размещения рекламы. Помещение в новом жилом районе Люблинский парк от ПИК густонaсeлённoe ЖK, ужe зacелeно нa более 85%. Жилой квартал «Люблинский парк» расположен на юго-востоке Москвы, в шаговой доступности от станции «Братиславская»,Также недалеко станция МЦД «Перерва». Tрафик всего ЖK пpоxодит чeрeз даннoe пoмещeниe. Пeшеходный - к школе, остановкам общественного транспорта и продуктовым сетям. Напротив дома магазин \"Пятерочка\". Арендатор: Ozon, Яндекс и Химчистка - арендная плата 230.000 рублей в месяц. Окупаемость 12 лет. Договор аренды на 5 лет. Ежегодное увеличение арендной платы на 7%. Стоимость 33 000 000 рублей. Без комиссии.",
+    "price_rub": "33000000",
+    "area_m2": "65",
+    "address": "г. Москва, ул. Люблинская д. 78к2",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B3.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8E%D0%B1%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B4.%2078%D0%BA2",
+    "map_url_generated": true,
+    "metro": "Братиславская (транспортом 5 мин.)",
+    "vat": null,
+    "commission": "Без комиссии",
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6af9af94ba7bb.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6af9af9517e79.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6af9af95370f1.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6af9af94dbaab.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6af9af939e65d.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6a1d22f239535.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6afbfb9b79158.jpeg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6afbfb9b807aa.jpeg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/69b945b55379f.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/69b945b5546b4.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6af9af94ba7bb.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6af9af9517e79.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6af9af95370f1.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6af9af94dbaab.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6af9af939e65d.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6a1d22f239535.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6afbfb9b79158.jpeg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6afbfb9b807aa.jpeg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/69b945b55379f.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/69b945b5546b4.jpg"
+    ],
+    "tenants": [
+      {
+        "name": "Ozon",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Ozon,"
+      },
+      {
+        "name": "Яндекс",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Яндекс и"
+      },
+      {
+        "name": "Химчистка",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Договор аренды на 5 лет.",
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Химчистка - арендная плата 230.000 рублей в месяц. Окупаемость 12 лет. Договор аренды на 5 лет. Ежегодное увеличение арендной платы на 7%. Стоимость 33 000 000 рублей. Без комиссии."
+      }
+    ],
+    "rent_current_rub": "230000",
+    "rent_future_rub": null,
+    "payback_years": "11.96",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "Цена объекта : 33 000 000 a",
+        "location": ".b--item-info__number: Цена объекта"
+      },
+      {
+        "field": "rent",
+        "text": "МАП: 230 000 руб.",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Ozon,",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "tenants[1]",
+        "text": "Яндекс и",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "tenants[2]",
+        "text": "Химчистка - арендная плата 230.000 рублей в месяц. Окупаемость 12 лет. Договор аренды на 5 лет. Ежегодное увеличение арендной платы на 7%. Стоимость 33 000 000 рублей. Без комиссии.",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "price_rub",
+        "text": "Стоимость 33 000 000 рублей",
+        "location": "description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "multiple_tenants",
+    "replacement_note": null,
+    "html_file": "samples/html/malina/187384.html",
+    "html_sha256": "2d1e43f8a2d6f17bc3ac85ed9acbcde59d2f18221cf93330d681d7796cb6b467"
+  },
+  "malina:184150": {
+    "source": "malina",
+    "listing_id": "184150",
+    "url": "https://malinaproperty.ru/property/propertiesRetail/184150",
+    "collected_at": "2026-11-21T13:30:43.513834Z",
+    "last_successful_check_at": "2026-11-21T13:30:43.513834Z",
+    "status": "active",
+    "title": "Продажа арендного бизнеса в ЖК \"Квартал Строгино\"",
+    "description": "Продажа торгового помещения 101,43 м2 с арендатором \"French Bakery\" в жилом комплексе \"Квартал Строгино\" (20 минут пешком от метро Строгино). Помещение 101,43 м2, располагается на 1 этаже, открытая планировка, отдельный вход с фасада, высота потолка 3,5 м, витринные окна по фасаду. Электрическая мощность 18 кВт. Парковка перед фасадом. Место для размещения рекламы. Помещение располагается на первой линии жилого комплекса на пешеходном бульваре, в центре жилого массива, рядом детский сад и супермаркет. Подписан предварительный договор аренды с сетью кондитерских \"French Bakery\", месячная арендная плата 500 000 рублей со второго года аренды. Ежегодная индексация 5%. Ввод в эксплуатацию до июня 2027 года. Стоимость 66,5 млн. рублей. Без комиссии.",
+    "price_rub": "66500000",
+    "area_m2": "101.43",
+    "address": "г. Москва, ул. жилой комплекс Квартал Строгино д. 2",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B3.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D1%83%D0%BB.%20%D0%B6%D0%B8%D0%BB%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB%20%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%B8%D0%BD%D0%BE%20%D0%B4.%202",
+    "map_url_generated": true,
+    "metro": "Строгино (пешком 20 мин. транспортом 5 мин.)",
+    "vat": null,
+    "commission": "Без комиссии",
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6abcf71f27748.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/687f3f013ba67.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/687e0cb7a00d8.jpeg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/687e0cb7cbc4a.jpeg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6abcf8f834f26.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6abcf8f84290f.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6abcf8f83cd8b.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6abcf8f844612.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6abcf8f84e6c9.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6abcf8fcdb6d2.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/6abcf8f85ac37.jpg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/687e0cb7e0d6b.jpeg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/687e0cb7c9578.jpeg",
+      "https://malinaproperty.ru/upload/resized/1200/800/100/687e0cb7c20cb.jpeg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6abcf71f27748.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/687f3f013ba67.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/687e0cb7a00d8.jpeg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/687e0cb7cbc4a.jpeg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6abcf8f834f26.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6abcf8f84290f.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6abcf8f83cd8b.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6abcf8f844612.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6abcf8f84e6c9.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6abcf8fcdb6d2.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/6abcf8f85ac37.jpg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/687e0cb7e0d6b.jpeg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/687e0cb7c9578.jpeg",
+      "https://malinaproperty.ru/upload/resized/192/192/100/687e0cb7c20cb.jpeg"
+    ],
+    "tenants": [
+      {
+        "name": "French Bakery",
+        "status": "future",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Подписан предварительный договор аренды с сетью кондитерских \"French Bakery\", месячная арендная плата 500 000 рублей со второго года аренды.",
+        "indexation_raw": "Ежегодная индексация 5%.\nЕжегодная индексация: 5%\nучета индексации)",
+        "rent_current_rub": null,
+        "rent_future_rub": "500000",
+        "rate_start": null,
+        "rate_start_raw": "месячная арендная плата 500 000 рублей со второго года",
+        "rent_steps": [
+          {
+            "amount_rub": "500000",
+            "from_date": null,
+            "from_month": 13,
+            "to_month": null,
+            "raw": "месячная арендная плата 500 000 рублей со второго года"
+          }
+        ],
+        "turnover_formula_raw": null,
+        "source_excerpt": "French Bakery\" в жилом комплексе \"Квартал Строгино\" (20 минут пешком от метро Строгино). Помещение 101,43 м2, располагается на 1 этаже, открытая планировка, отдельный вход с фасада, высота потолка 3,5 м, витринные окна по фасаду. Электрическая мощность 18 кВт. Парковка перед фасадом. Место для размещения рекламы. Помещение располагается на первой линии жилого комплекса на пешеходном бульваре, в центре жилого массива, рядом детский сад и супермаркет. Подписан предварительный договор аренды с сетью кондитерских \"French Bakery\", месячная арендная плата 500 000 рублей со второго года аренды. Ежегодная индексация 5%. Ввод в эксплуатацию до июня 2027 года. Стоимость 66,5 млн. рублей. Без комиссии.\nПлощадь: 101 м2\nЭтаж: 1\nПланировка: Открытая\nОтделка: Дизайнерский ремонт\nМощность электроэнергии: 18 кВт\nПарковка: Перед фасадом\nВытяжка: Можно установить\nАрендатор: French Bakery\nМесячная арендная плата: 500 000 руб.\nГодовой арендный поток: 6 000 000 руб.\nЕжегодная индексация: 5%\nОкупаемость: 11.1 лет (без\n учета индексации)\nДоходность: 9% годовых\nЦена за м2: 658 415 руб\nОбщая стоимость: 66 500 000 руб\nКомиссия: Без комиссии"
+      }
+    ],
+    "rent_current_rub": null,
+    "rent_future_rub": "500000",
+    "payback_years": null,
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "Цена объекта : 66 500 000 a",
+        "location": ".b--item-info__number: Цена объекта"
+      },
+      {
+        "field": "rent",
+        "text": "МАП: 500 000 руб.",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "French Bakery\" в жилом комплексе \"Квартал Строгино\" (20 минут пешком от метро Строгино). Помещение 101,43 м2, располагается на 1 этаже, открытая планировка, отдельный вход с фасада, высота потолка 3,5 м, витринные окна по фасаду. Электрическая мощность 18 кВт. Парковка перед фасадом. Место для размещения рекламы. Помещение располагается на первой линии жилого комплекса на пешеходном бульваре, в центре жилого массива, рядом детский сад и супермаркет. Подписан предварительный договор аренды с сетью кондитерских \"French Bakery\", месячная арендная плата 500 000 рублей со второго года аренды. Ежегодная индексация 5%. Ввод в эксплуатацию до июня 2027 года. Стоимость 66,5 млн. рублей. Без комиссии.\nПлощадь: 101 м2\nЭтаж: 1\nПланировка: Открытая\nОтделка: Дизайнерский ремонт\nМощность электроэнергии: 18 кВт\nПарковка: Перед фасадом\nВытяжка: Можно установить\nАрендатор: French Bakery\nМесячная арендная плата: 500 000 руб.\nГодовой арендный поток: 6 000 000 руб.\nЕжегодная индексация: 5%\nОкупаемость: 11.1 лет (без\n учета индексации)\nДоходность: 9% годовых\nЦена за м2: 658 415 руб\nОбщая стоимость: 66 500 000 руб\nКомиссия: Без комиссии",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "price_rub",
+        "text": "Стоимость 66,5 млн. рублей",
+        "location": "description"
+      }
+    ],
+    "discrepancies": [
+      {
+        "field": "area_m2",
+        "values": [
+          "101",
+          "101.43"
+        ],
+        "explanation": "Площадь в виджете и тексте различается; значения сохранены для проверки."
+      }
+    ],
+    "warnings": [
+      "Текущий МАП не подтверждён; окупаемость не рассчитана."
+    ],
+    "requested_category": "future_tenant",
+    "replacement_note": null,
+    "html_file": "samples/html/malina/184150.html",
+    "html_sha256": "d4027ad772696a037ea4038ae86e0cf5c195836fd7c55c55dfcd616dbd447c43"
+  },
+  "invest7:868109": {
+    "source": "invest7",
+    "listing_id": "868109",
+    "url": "https://invest7.ru/lots/868109",
+    "collected_at": "2026-11-21T13:30:38.305969Z",
+    "last_successful_check_at": "2026-11-21T13:30:38.305969Z",
+    "status": "active",
+    "title": "Продажа арендного бизнеса у метро Бибирево, 382,1 м2",
+    "description": "Продается готовый арендный бизнес с сетевым арендатором супермаркет \"Пятерочка\".\n\nПреимущества:\n-Общая площадь 382.1 кв.м.\n-Первая линия домов. До метро Бибирево 2 мин пешком.\n-Развитая инфраструктура, интенсивный пешеходный и автомобильный трафик.\n-Сложившийся район с плотной жилой застройкой.\n-Торговое окружение: Винлаб, Почта России, Почта Банк, Кондитерская.\n\nТехнические характеристики:\n-Встроенно-пристроенная части 12 этажного жилого дома.\n-Отдельный вход.\n-Зона погрузки/разгрузки.\n-Витринные окна, высота потолков - 4 м.\n-Электрическая мощность - 69 кВт.\n\nКоммерческие условия:\nСтоимость - 99 000 000 рублей.\nДДА на 10 лет от 2022 г.\nМАП: 6,5% от РТО.\nНа данный момент МАП 920 000 рублей.",
+    "price_rub": "99000000",
+    "area_m2": "382.1",
+    "address": "г Москва, ул Пришвина, д 21",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B3%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D1%83%D0%BB%20%D0%9F%D1%80%D0%B8%D1%88%D0%B2%D0%B8%D0%BD%D0%B0%2C%20%D0%B4%2021",
+    "map_url_generated": true,
+    "metro": "Бибирево, Алтуфьево, Отрадное",
+    "vat": "УСН",
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://s3.regru.cloud/storage-invest7/objects/868109/photo_1.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/868109/photo_2.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/868109/photo_3.jpeg"
+    ],
+    "tenants": [
+      {
+        "name": "Пятерочка",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "ДДА на 10 лет от 2022 г.",
+        "indexation_raw": null,
+        "rent_current_rub": "920000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": "МАП: 6,5% от РТО.\nПятерочка 920 000 ₽ 11 040 000 ₽ - - РТО-6.5%",
+        "source_excerpt": "Пятерочка\".\n\nПреимущества:\n-Общая площадь 382.1 кв.м.\n-Первая линия домов. До метро Бибирево 2 мин пешком.\n-Развитая инфраструктура, интенсивный пешеходный и автомобильный трафик.\n-Сложившийся район с плотной жилой застройкой.\n-Торговое окружение: Винлаб, Почта России, Почта Банк, Кондитерская.\n\nТехнические характеристики:\n-Встроенно-пристроенная части 12 этажного жилого дома.\n-Отдельный вход.\n-Зона погрузки/разгрузки.\n-Витринные окна, высота потолков - 4 м.\n-Электрическая мощность - 69 кВт.\n\nКоммерческие условия:\nСтоимость - 99 000 000 рублей.\nДДА на 10 лет от 2022 г.\nМАП: 6,5% от РТО.\nНа данный момент МАП 920 000 рублей.\nПятерочка 920 000 ₽ 11 040 000 ₽ - - РТО-6.5%"
+      }
+    ],
+    "rent_current_rub": "920000",
+    "rent_future_rub": null,
+    "payback_years": "8.97",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "Цена (УСН): 99 000 000 ₽",
+        "location": "price label (excluding per-m² price)"
+      },
+      {
+        "field": "rent",
+        "text": "МАП 920 000 ₽",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Пятерочка\".\n\nПреимущества:\n-Общая площадь 382.1 кв.м.\n-Первая линия домов. До метро Бибирево 2 мин пешком.\n-Развитая инфраструктура, интенсивный пешеходный и автомобильный трафик.\n-Сложившийся район с плотной жилой застройкой.\n-Торговое окружение: Винлаб, Почта России, Почта Банк, Кондитерская.\n\nТехнические характеристики:\n-Встроенно-пристроенная части 12 этажного жилого дома.\n-Отдельный вход.\n-Зона погрузки/разгрузки.\n-Витринные окна, высота потолков - 4 м.\n-Электрическая мощность - 69 кВт.\n\nКоммерческие условия:\nСтоимость - 99 000 000 рублей.\nДДА на 10 лет от 2022 г.\nМАП: 6,5% от РТО.\nНа данный момент МАП 920 000 рублей.\nПятерочка 920 000 ₽ 11 040 000 ₽ - - РТО-6.5%",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "price_rub",
+        "text": "Стоимость - 99 000 000 рублей",
+        "location": "description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "supermarket",
+    "replacement_note": null,
+    "html_file": "samples/html/invest7/868109.html",
+    "html_sha256": "ed4c99841a90ad7dd625a093173e7e05b7a7faed1fd039c54ee2ff829972f1be"
+  },
+  "invest7:1119719": {
+    "source": "invest7",
+    "listing_id": "1119719",
+    "url": "https://invest7.ru/lots/1119719",
+    "collected_at": "2026-11-21T13:30:39.594913Z",
+    "last_successful_check_at": "2026-11-21T13:30:39.594913Z",
+    "status": "active",
+    "title": "Продажа арендного бизнеса у метро Волоколамская, 38,1 м2",
+    "description": "Помещение свободного назначения в МФК \"Митино Парк\" на пересечении ул. Дубравная и Барышиха. Первая линия. 7 минут пешком от станции метро \"Митино\". 1.7 км до Пятницкого шоссе, 2.3 км до Пенягинского шоссе, 3.2 км до МКАД, 4.7 км до Волоколамского шоссе, 6.3 км до Ильинского шоссе. Плотный жилой массив. Сложившееся торговое окружение. Интенсивный автомобильный и пешеходный трафик. 1 этаж 3-этажного здания. Отдельный вход из торговой галереи. Открытая планировка. Витринное остекление. Зона разгрузки/погрузки. Возможность размещения вывески. Наземная парковка на 1 000 машиномест. Рядом остановка общественного транспорта.\nИнформация об арендаторе:\n-арендатор: Аптека \"Доктор столетов\";\n-МАП: 305.000 руб. (АП в месяц с учетом НДС + 10% от ТО)",
+    "price_rub": "46000000",
+    "area_m2": "38.1",
+    "address": "г Москва, ул Дубравная, д 51 стр 1",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B3%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D1%83%D0%BB%20%D0%94%D1%83%D0%B1%D1%80%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F%2C%20%D0%B4%2051%20%D1%81%D1%82%D1%80%201",
+    "map_url_generated": true,
+    "metro": "Волоколамская, Митино",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_1.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_2.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_3.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_4.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_5.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_6.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_7.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_8.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_9.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_10.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_11.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_12.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_13.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_14.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_15.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_16.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_17.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_18.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_19.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_20.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1119719/photo_21.jpeg"
+    ],
+    "tenants": [
+      {
+        "name": "Аптека \"Доктор столетов\"",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": "305000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": "-МАП: 305.000 руб. (АП в месяц с учетом НДС + 10% от ТО)",
+        "source_excerpt": "Аптека \"Доктор столетов\";\n-МАП: 305.000 руб. (АП в месяц с учетом НДС + 10% от ТО)\nАптека 305 000 ₽ 3 660 000 ₽ - -"
+      }
+    ],
+    "rent_current_rub": "305000",
+    "rent_future_rub": null,
+    "payback_years": "12.57",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "Цена : 46 000 000 ₽",
+        "location": "price label (excluding per-m² price)"
+      },
+      {
+        "field": "rent",
+        "text": "МАП 305 000 ₽",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Аптека \"Доктор столетов\";\n-МАП: 305.000 руб. (АП в месяц с учетом НДС + 10% от ТО)\nАптека 305 000 ₽ 3 660 000 ₽ - -",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "pharmacy",
+    "replacement_note": null,
+    "html_file": "samples/html/invest7/1119719.html",
+    "html_sha256": "d52d7932446e040101a75619facb5a65d0c082eac492992a22ac97a2a36ea731"
+  },
+  "invest7:895007": {
+    "source": "invest7",
+    "listing_id": "895007",
+    "url": "https://invest7.ru/lots/895007",
+    "collected_at": "2026-11-21T13:30:40.888456Z",
+    "last_successful_check_at": "2026-11-21T13:30:40.888456Z",
+    "status": "active",
+    "title": "Продажа арендного бизнеса у метро Окружная, 128,9 м2",
+    "description": "Помещение свободного назначения с арендаторами в ЖК Большая Академическая 85.\nПервая линия. Комплекс состоит из 11 корпусов, этажностью от 11 до 24 этажей, рассчитанный на 2 375 квартир. 10 минут пешком от станции метро Окружная. Выезд на Дмитровское шоссе и МСД. Плотный жилой массив.\nТорговое окружение: супермаркет Пятерочка, аптека Ригла, магазин Вкусвилл, аптека ГОРЗДРАВ\nПомещение находится на въезде в микрорайон, отличная видимость с дороги. Интенсивный пешеходный и автомобильный трафик.\nОтдельный вход с фасада. Зальная планировка.\n\nТехнические характеристики\nПервый этаж\nЭлектрическая мощность: 40 кВт.\nВысота потолков: 4,5 м\n\nАрендатор\nКрасное и Белое\nМАП\n200 000Р.\nДДА на 10 лет\nБуханка\nМАП\n200 000Р.\n+15% от ТО\nДоговор на 11 месяцев с автоматической пролонгацией",
+    "price_rub": "66360000",
+    "area_m2": "128.9",
+    "address": "г Москва, 1-й Нижнелихоборский проезд, д 1",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B3%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%201-%D0%B9%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%BB%D0%B8%D1%85%D0%BE%D0%B1%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C%20%D0%B4%201",
+    "map_url_generated": true,
+    "metro": "Окружная, Лихоборы, Петровско-Разумовская",
+    "vat": "УСН",
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://s3.regru.cloud/storage-invest7/objects/895007/photo_1.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/895007/photo_2.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/895007/photo_3.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/895007/photo_4.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/895007/photo_5.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/895007/photo_6.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/895007/photo_7.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/895007/photo_8.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/895007/photo_9.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/895007/photo_10.jpeg"
+    ],
+    "tenants": [
+      {
+        "name": "Буханка",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Договор на 11 месяцев с автоматической пролонгацией",
+        "indexation_raw": null,
+        "rent_current_rub": "200000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": "+15% от ТО",
+        "source_excerpt": "Буханка\nМАП\n200 000Р.\n+15% от ТО\nДоговор на 11 месяцев с автоматической пролонгацией\nБуханка 200 000 ₽ 2 400 000 ₽ - -"
+      },
+      {
+        "name": "Красное и Белое",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "ДДА на 10 лет",
+        "indexation_raw": null,
+        "rent_current_rub": "200000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Красное и Белое\nМАП\n200 000Р.\nДДА на 10 лет\n\nКрасное и Белое 200 000 ₽ 2 400 000 ₽ - -"
+      }
+    ],
+    "rent_current_rub": "400000",
+    "rent_future_rub": null,
+    "payback_years": "13.82",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "Цена (УСН): 66 360 000 ₽",
+        "location": "price label (excluding per-m² price)"
+      },
+      {
+        "field": "rent",
+        "text": "МАП 400 000 ₽",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Буханка\nМАП\n200 000Р.\n+15% от ТО\nДоговор на 11 месяцев с автоматической пролонгацией\nБуханка 200 000 ₽ 2 400 000 ₽ - -",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "tenants[1]",
+        "text": "Красное и Белое\nМАП\n200 000Р.\nДДА на 10 лет\n\nКрасное и Белое 200 000 ₽ 2 400 000 ₽ - -",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "alcohol_store",
+    "replacement_note": null,
+    "html_file": "samples/html/invest7/895007.html",
+    "html_sha256": "556ca40aed5c547e5eb811c5e09cf454a111866710d9d6319734fad16afa7e77"
+  },
+  "invest7:1115746": {
+    "source": "invest7",
+    "listing_id": "1115746",
+    "url": "https://invest7.ru/lots/1115746",
+    "collected_at": "2026-11-21T13:30:42.748904Z",
+    "last_successful_check_at": "2026-11-21T13:30:42.748904Z",
+    "status": "active",
+    "title": "Продажа арендного бизнеса у метро Лефортово, 223 м2",
+    "description": "Помещение свободного назначения с арендаторами на первой линии ул. Лефортовский Вал. 7 минут пешком от станции метро \"Лефортово\". 1.5 км до ТТК, 1.7 км до шоссе Энтузиастов, 4 км до Измайловского шоссе, 4.5 км до Садового кольца. Плотный жилой массив. Сложившееся торговое окружение. Интенсивный автомобильный и пешеходный трафик. 1 этаж 5-этажного жилого дома. Отдельный вход с фасада. Открытая планировка. Электрическая мощность: 35 кВт. Высота потолков: 4 м. Витринное остекление. Возможность размещения вывески. Наземная парковка. Рядом остановка общественного транспорта. Арендаторы: Улыбка Радуги (175 кв.м.), ДДА на 5 лет от ноября 2025 года. Индексация 5% по уведомлению. МАП: 420 000 с 4 месяца, 2 и 3 месяцы - 170 000 руб. Ozon, КДА. МАП: 90 000 руб.",
+    "price_rub": "64600000",
+    "area_m2": "223",
+    "address": "г Москва, ул Лефортовский Вал, д 7",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B3%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D1%83%D0%BB%20%D0%9B%D0%B5%D1%84%D0%BE%D1%80%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%92%D0%B0%D0%BB%2C%20%D0%B4%207",
+    "map_url_generated": true,
+    "metro": "Лефортово, Авиамоторная, Сортировочная",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://s3.regru.cloud/storage-invest7/objects/1115746/photo_1.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1115746/photo_2.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1115746/photo_3.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1115746/photo_4.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1115746/photo_5.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1115746/photo_6.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1115746/photo_7.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1115746/photo_8.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1115746/photo_9.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1115746/photo_10.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1115746/photo_11.jpeg"
+    ],
+    "tenants": [
+      {
+        "name": "Ozon",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Ozon, КДА.",
+        "indexation_raw": null,
+        "rent_current_rub": "90000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Ozon, КДА. МАП: 90 000 руб.\nOzon 90 000 ₽ 1 080 000 ₽ - -"
+      },
+      {
+        "name": "Улыбка Радуги",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Улыбка Радуги (175 кв.м.), ДДА на 5 лет от ноября 2025 года.",
+        "indexation_raw": "Индексация 5% по уведомлению.",
+        "rent_current_rub": "420000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": "3 месяцы - 170 000 руб",
+        "rent_steps": [
+          {
+            "amount_rub": "170000",
+            "from_date": null,
+            "from_month": 3,
+            "to_month": null,
+            "raw": "3 месяцы - 170 000 руб"
+          },
+          {
+            "amount_rub": "420000",
+            "from_date": null,
+            "from_month": 4,
+            "to_month": null,
+            "raw": "МАП: 420 000 с 4 месяц"
+          }
+        ],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Улыбка Радуги (175 кв.м.), ДДА на 5 лет от ноября 2025 года. Индексация 5% по уведомлению. МАП: 420 000 с 4 месяца, 2 и 3 месяцы - 170 000 руб. \nУлыбка Радуги 420 000 ₽ 5 040 000 ₽ - -"
+      }
+    ],
+    "rent_current_rub": "510000",
+    "rent_future_rub": null,
+    "payback_years": "10.56",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "Цена : 64 600 000 ₽",
+        "location": "price label (excluding per-m² price)"
+      },
+      {
+        "field": "rent",
+        "text": "МАП 510 000 ₽",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Ozon, КДА. МАП: 90 000 руб.\nOzon 90 000 ₽ 1 080 000 ₽ - -",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "tenants[1]",
+        "text": "Улыбка Радуги (175 кв.м.), ДДА на 5 лет от ноября 2025 года. Индексация 5% по уведомлению. МАП: 420 000 с 4 месяца, 2 и 3 месяцы - 170 000 руб. \nУлыбка Радуги 420 000 ₽ 5 040 000 ₽ - -",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "multiple_tenants",
+    "replacement_note": null,
+    "html_file": "samples/html/invest7/1115746.html",
+    "html_sha256": "035cdea2869801408aae249a4d3da4954f35e099e9937c5fd33034a276606f17"
+  },
+  "invest7:1108081": {
+    "source": "invest7",
+    "listing_id": "1108081",
+    "url": "https://invest7.ru/lots/1108081",
+    "collected_at": "2026-11-21T13:30:44.088846Z",
+    "last_successful_check_at": "2026-11-21T13:30:44.088846Z",
+    "status": "active",
+    "title": "Продажа арендного бизнеса в ЖК «Лучи» , 58,7 м2",
+    "description": "Помещение свободного назначения формата с арендатором в новом ЖК \"Лучи\". Корпус 6. ЖК состоит из 16 корпусов переменной этажности (от 19 до 24 этажей), рассчитанных на 14 361 квартиру. 15 минут пешком до станции метро \"Боровское шоссе\". 2 км до Боровского шоссе, 4.2 км до Киевского шоссе и МКАД. Угол напротив пешеходного перехода к школе. Плотный жилой массив. Сложившееся торговое окружение. Стабильный автомобильный и пешеходный трафик. 1 этаж 24-этажного жилого дома. Отдельный вход с фасада. Смешанная планировка. Электрическая мощность: 12 кВт. Высота потолков: 4.2 м. Витринное остекление. Возможность размещения вывески. Парковка на территории комплекса. Ключи: 3 квартал 27 года. Арендатор: аптека \"Здесь Аптека\" МАП: 270 000 руб.",
+    "price_rub": "38500000",
+    "area_m2": "58.7",
+    "address": "г Москва, ул Производственная, д 25",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B3%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D1%83%D0%BB%20%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%2C%20%D0%B4%2025",
+    "map_url_generated": true,
+    "metro": "Новопеределкино, Солнцево, Боровское шоссе",
+    "vat": "УСН",
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://s3.regru.cloud/storage-invest7/objects/1108081/photo_1.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1108081/photo_2.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1108081/photo_3.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1108081/photo_4.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1108081/photo_5.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1108081/photo_6.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1108081/photo_7.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1108081/photo_8.jpeg",
+      "https://s3.regru.cloud/storage-invest7/objects/1108081/photo_9.jpeg"
+    ],
+    "tenants": [
+      {
+        "name": "Здесь Аптека",
+        "status": "future",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": "270000",
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Здесь Аптека\" МАП: 270 000 руб.\nЗдесь Аптека 270 000 ₽ 3 240 000 ₽ - -"
+      }
+    ],
+    "rent_current_rub": null,
+    "rent_future_rub": "270000",
+    "payback_years": null,
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "Цена (УСН): 38 500 000 ₽",
+        "location": "price label (excluding per-m² price)"
+      },
+      {
+        "field": "rent",
+        "text": "МАП 270 000 ₽",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Здесь Аптека\" МАП: 270 000 руб.\nЗдесь Аптека 270 000 ₽ 3 240 000 ₽ - -",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [
+      "Текущий МАП не подтверждён; окупаемость не рассчитана."
+    ],
+    "requested_category": "future_tenant",
+    "replacement_note": null,
+    "html_file": "samples/html/invest7/1108081.html",
+    "html_sha256": "ab750cebdac3c87be6f8db88259a4171adfbdb5899f012ad655f21268e88f781"
+  },
+  "s5d:162850": {
+    "source": "s5d",
+    "listing_id": "162850",
+    "url": "https://s5d.ru/object/162850",
+    "collected_at": "2026-11-21T13:30:39.158296Z",
+    "last_successful_check_at": "2026-11-21T13:30:39.158296Z",
+    "status": "active",
+    "title": "Новоалексеевская, 14с1 - 513 кв. м. - продажа ГАБ с Пятерочкой",
+    "description": "Продаётся готовый арендный бизнес с федеральным арендатором «Пятерочка». Адрес: г. Москва, ул. Новоалексеевская, д. 14, стр. 1. Объект расположен в 5 минутах пешком от метро «Алексеевская», с интенсивным пешеходным и автомобильным трафиком. Надежные соседи: федеральные сети кофейня \"Хлебник\", аптека \"Горздрав\", даркстор \"Озон Фреш\". Технические характеристики: Общая площадь: 513 кв. м. Первый этаж двухэтажного административного здания. Зальная планировка. Отдельный вход с фасада. Большие витрины. Высота потолков - 3.75 м. Электрическая мощность: 75 кВт. Коммерческие условия: Цена: 310 000 000 рублей. Цена за м²: 604 288 рублей. Арендатор: супермаркет «Пятерочка». МАП: 2 550 000 рублей. ГАП: 30 600 000 рублей. Окупаемость: 10 лет.",
+    "price_rub": "310000000",
+    "area_m2": "513",
+    "address": "Москва, Новоалексеевская улица, 14с1",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9D%D0%BE%D0%B2%D0%BE%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C%2014%D1%811",
+    "map_url_generated": true,
+    "metro": "Алексеевская",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": "ООО",
+    "photos": [
+      "https://s5d.ru/images-579905-p3x4?1786952739",
+      "https://s5d.ru/images-579910-p3x4?1786952346",
+      "https://s5d.ru/images-579909-p3x4?1786952339",
+      "https://s5d.ru/images-579908-p3x4?1786952320",
+      "https://s5d.ru/images-579907-p3x4?1786952299",
+      "https://s5d.ru/images-579906-p3x4?1786952292"
+    ],
+    "tenants": [
+      {
+        "name": "Пятерочка",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": "2550000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Пятерочка». МАП: 2 550 000 рублей. ГАП: 30 600 000 рублей. Окупаемость: 10 лет."
+      }
+    ],
+    "rent_current_rub": "2550000",
+    "rent_future_rub": null,
+    "payback_years": "10.13",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "310 000 000 RUB | за все",
+        "location": ".price-article"
+      },
+      {
+        "field": "rent",
+        "text": "Общий МАП: 2 550 000 RUB",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Пятерочка». МАП: 2 550 000 рублей. ГАП: 30 600 000 рублей. Окупаемость: 10 лет.",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "price_rub",
+        "text": "Цена: 310 000 000 рублей",
+        "location": "description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "supermarket",
+    "replacement_note": null,
+    "html_file": "samples/html/s5d/162850.html",
+    "html_sha256": "12a841a0c9abb4b2e3eb72661fe856146db1fb3ae392f28b29e1c6bd518606ae"
+  },
+  "s5d:20276": {
+    "source": "s5d",
+    "listing_id": "20276",
+    "url": "https://s5d.ru/object/20276",
+    "collected_at": "2026-11-21T13:30:41.403440Z",
+    "last_successful_check_at": "2026-11-21T13:30:41.403440Z",
+    "status": "active",
+    "title": "Краснодарская улица 57к3 - 100,4 кв.м / Продажа торгового помещения с арендатором Аптека",
+    "description": "Продажа помещения свободного назначения с действующим арендатором, расположенное в г. Москва, ЮВАО, р-н Люблино, Краснодарская 57К3. Метро - \"Люблино\" (5 мин. пешком). Отличная визуализация объекта за счёт расположения в центре жилого квартала, с высокой покупательской способностью и активной бизнес-средой. Сложившееся развитое торговое окружение, постоянный автомобильный и пешеходный поток. Остановки общественного транспорта, знаменитый торгово-ярмарочный комплекс Москва. Технические характеристики: Общая площадь 100,4м² (вся площадь в одном уровне), Первый этаж. 12 этажей, высота потолков - 3,8 м, эл. мощность - 15 кВт, городской паркинг. Коммерческие условия: Стоимость помещения- 68 000 000 рублей. Стоимость за 1 кв.м - 677 291 рублей. Арендатор: Аптека МАП: 380 742 рублей ГАП: 4 568 904 рублей Продажа по ДКП от юр. лица.",
+    "price_rub": "68000000",
+    "area_m2": "100.4",
+    "address": "Москва, Краснодарская улица 57к3",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2057%D0%BA3",
+    "map_url_generated": true,
+    "metro": "Люблино",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": "УСН",
+    "photos": [
+      "https://s5d.ru/images-567123-p3x4?1781858170",
+      "https://s5d.ru/images-567127-p3x4?1781858158",
+      "https://s5d.ru/images-567126-p3x4?1781858158",
+      "https://s5d.ru/images-567125-p3x4?1781858158",
+      "https://s5d.ru/images-567124-p3x4?1781858157",
+      "https://s5d.ru/images-567122-p3x4?1781858156",
+      "https://s5d.ru/images-489822-p3x4?1758104473",
+      "https://s5d.ru/images-375587-p3x4?1725463469",
+      "https://s5d.ru/images-375588-p3x4?1725463469",
+      "https://s5d.ru/images-264476-p3x4?1681746261"
+    ],
+    "tenants": [
+      {
+        "name": "Аптека",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": "380742",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Аптека МАП: 380 742 рублей ГАП: 4 568 904 рублей Продажа по ДКП от юр. лица."
+      }
+    ],
+    "rent_current_rub": "380742",
+    "rent_future_rub": null,
+    "payback_years": "14.88",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "68 000 000 RUB | за все",
+        "location": ".price-article"
+      },
+      {
+        "field": "rent",
+        "text": "Общий МАП: 380 742 RUB",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Аптека МАП: 380 742 рублей ГАП: 4 568 904 рублей Продажа по ДКП от юр. лица.",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "pharmacy",
+    "replacement_note": null,
+    "html_file": "samples/html/s5d/20276.html",
+    "html_sha256": "fa4e3509872d60939d4081d11b5aedf435e5d5b69bb9ac30065a9c44e9bed451"
+  },
+  "s5d:152526": {
+    "source": "s5d",
+    "listing_id": "152526",
+    "url": "https://s5d.ru/object/152526",
+    "collected_at": "2026-11-21T13:30:43.941699Z",
+    "last_successful_check_at": "2026-11-21T13:30:43.941699Z",
+    "status": "active",
+    "title": "Шмитовский проезд д.1 / 147кв.м. / Продажа ГАБ с КБ",
+    "description": "Предлагается в продажу помещение свободного назначения с сетевым арендатором \"Красное&Белое\" на первой линии Шмитовского проезда д.1. Помещение имеет прекрасную визуализацию с проезжей части, высокий рекламный и маркетинговый потенциал. Сверхинтенсивный пешеходный и автомобильный трафик. До станции метро Улица 1905 года 10 минут пешком. Торговое окружение: Пятерочка, Планета здоровья, Косметология, кофейня, OZON, Яндекс Маркет. Технические характеристики: Помещение площадью 147 кв.м. Высокий цокольный этаж с окнами в 5-ти этажном жилом доме. открытая планировка, отдельный вход с фасада, высота потолка 3 метра. Электрическая мощность 35 кВт. Возможность размещения вывески. Парковка перед фасадом. Все городские коммуникации. Коммерческие условия: Стоимость объекта 40 500 000 рублей. Стоимость за м.кв. 275 510 рублей. Арендатор: Красное&Белое МАП 320 000 рублей ГАП 3 840 000 рублей. ДДА на 15 лет от 08.2023 года. Окупаемость 10,5 лет. Коммунальные услуги оплачиваются отдельно.",
+    "price_rub": "40500000",
+    "area_m2": "147",
+    "address": "Москва, Шмитовский проезд, 1",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A8%D0%BC%D0%B8%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C%201",
+    "map_url_generated": true,
+    "metro": "Краснопресненская,Улица 1905 года",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": "-",
+    "photos": [
+      "https://s5d.ru/images-477968-p3x4?1755338376",
+      "https://s5d.ru/images-433908-p3x4?1741966893",
+      "https://s5d.ru/images-433909-p3x4?1741966893",
+      "https://s5d.ru/images-433912-p3x4?1741966893"
+    ],
+    "tenants": [
+      {
+        "name": "Красное&Белое",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "ДДА на 15 лет от 08.2023 года.",
+        "indexation_raw": null,
+        "rent_current_rub": "320000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Красное&Белое МАП 320 000 рублей ГАП 3 840 000 рублей. ДДА на 15 лет от 08.2023 года. Окупаемость 10,5 лет. Коммунальные услуги оплачиваются отдельно."
+      }
+    ],
+    "rent_current_rub": "320000",
+    "rent_future_rub": null,
+    "payback_years": "10.55",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "40 500 000 RUB | за все",
+        "location": ".price-article"
+      },
+      {
+        "field": "rent",
+        "text": "Общий МАП: 320 000 RUB",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Красное&Белое МАП 320 000 рублей ГАП 3 840 000 рублей. ДДА на 15 лет от 08.2023 года. Окупаемость 10,5 лет. Коммунальные услуги оплачиваются отдельно.",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "price_rub",
+        "text": "Стоимость объекта 40 500 000 рублей",
+        "location": "description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "alcohol_store",
+    "replacement_note": null,
+    "html_file": "samples/html/s5d/152526.html",
+    "html_sha256": "b59142462807847399319c79236f9fc6d2aa64734b7352247c680f6ff10ab8da"
+  },
+  "s5d:145572": {
+    "source": "s5d",
+    "listing_id": "145572",
+    "url": "https://s5d.ru/object/145572",
+    "collected_at": "2026-11-21T13:39:45.751772Z",
+    "last_successful_check_at": "2026-11-21T13:39:45.751772Z",
+    "status": "active",
+    "title": "г. Москва, ул. Новаторов, 38к4 - 191.6 кв.м. - Продажа АБ / Wildberries (не франшиза), Салон красоты, Ozon, Дом быта",
+    "description": "Продается помещение с арендаторами в ЮЗАО в панельном 22х этажном жилом доме 2004 года постройки по адресу: Москва, ул. Новаторов, д.38, корп. 4. До метро Новаторская и метро Воронцовская 10 мин. пешком. Плотный жилой массив. Технические характеристики: Площадь 178,6 кв.м. в ЕГРН + 13м2 холл с отдельным входом и отоплением, 1 этаж. Высота потолка 2,7 м. Эл.мощность э/э - 27 кВт. Планировка открытая, 7 кабинетов. Стены не несущие. Коммерческие условия: Цена продажи: 51 000 000 руб. Цена за 1 кв.м.: 266 179руб. Арендаторы: Wildberries (не франшиза), Салон красоты, Ozon (ИП), Дом быта, КДА на 11 месяцев. МАП общий: 450 000 руб. ГАП общий: 5 400 000 руб. Окупаемость: 9.4 года ДКПн (ИП на УСН)",
+    "price_rub": "51000000",
+    "area_m2": "191.6",
+    "address": "г. Москва, ул. Новаторов, 38к4",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B3.%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D1%83%D0%BB.%20%D0%9D%D0%BE%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2%2C%2038%D0%BA4",
+    "map_url_generated": true,
+    "metro": "Воронцовская,Новаторская",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": "физ.лицо",
+    "photos": [
+      "https://s5d.ru/images-360545-p3x4?1718895850",
+      "https://s5d.ru/images-360544-p3x4?1718895831",
+      "https://s5d.ru/images-360543-p3x4?1718895831",
+      "https://s5d.ru/images-360542-p3x4?1718895830",
+      "https://s5d.ru/images-360540-p3x4?1718895830",
+      "https://s5d.ru/images-360539-p3x4?1718895830",
+      "https://s5d.ru/images-360541-p3x4?1718895830",
+      "https://s5d.ru/images-360538-p3x4?1718895829",
+      "https://s5d.ru/images-350937-p3x4?1715672223",
+      "https://s5d.ru/images-350939-p3x4?1715672219",
+      "https://s5d.ru/images-350938-p3x4?1715672219",
+      "https://s5d.ru/images-350934-p3x4?1715672218",
+      "https://s5d.ru/images-350936-p3x4?1715672218"
+    ],
+    "tenants": [
+      {
+        "name": "Wildberries (не франшиза)",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Wildberries (не франшиза),"
+      },
+      {
+        "name": "Салон красоты",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Салон красоты,"
+      },
+      {
+        "name": "Ozon (ИП)",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Ozon (ИП),"
+      },
+      {
+        "name": "Дом быта",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Дом быта, КДА на 11 месяцев.",
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Дом быта, КДА на 11 месяцев. МАП общий: 450 000 руб. ГАП общий: 5 400 000 руб. Окупаемость: 9.4 года ДКПн (ИП на УСН)"
+      }
+    ],
+    "rent_current_rub": "450000",
+    "rent_future_rub": null,
+    "payback_years": "9.44",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "51 000 000 RUB | за все",
+        "location": ".price-article"
+      },
+      {
+        "field": "rent",
+        "text": "Общий МАП: 450 000 RUB",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Wildberries (не франшиза),",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "tenants[1]",
+        "text": "Салон красоты,",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "tenants[2]",
+        "text": "Ozon (ИП),",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "tenants[3]",
+        "text": "Дом быта, КДА на 11 месяцев. МАП общий: 450 000 руб. ГАП общий: 5 400 000 руб. Окупаемость: 9.4 года ДКПн (ИП на УСН)",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [
+      {
+        "field": "area_m2",
+        "values": [
+          "191.6",
+          "178.6"
+        ],
+        "explanation": "Площадь в виджете и тексте различается; значения сохранены для проверки."
+      }
+    ],
+    "warnings": [],
+    "requested_category": "multiple_tenants",
+    "replacement_note": null,
+    "html_file": "samples/html/s5d/145572.html",
+    "html_sha256": "3177f2b006a8e13788c53a735fc31ee2d02eb73816697030b8b4c0197fecb24f"
+  },
+  "s5d:162927": {
+    "source": "s5d",
+    "listing_id": "162927",
+    "url": "https://s5d.ru/object/162927",
+    "collected_at": "2026-11-21T13:30:48.234720Z",
+    "last_successful_check_at": "2026-11-21T13:30:48.234720Z",
+    "status": "active",
+    "title": "ЖК 1-ый Химкинский, МО / 50.6 кв.м./ Продажа ГАБ с аптекой Горздрав",
+    "description": "Продажа торгового помещения с арендатором (ГАБ) в ЖК комфорт-класса по адресу: МО, ЖК «1-й Химкинский» корпус 1.3 Жилой комплекс «1-й Химкинский» — один из самых масштабных проектов «Первого ДСК». Это комплексное развитие территории, которое включает в себя всю необходимую для жизни инфраструктуру: 2 школы, 4 детских сада, поликлиника, спорткомплекс. Транспортная доступность: • 10 минут на авто до станции МЦД «Химки». • 15 минут на авто до станции МЦД «Хлебниково». • 20 минут на авто до станции метро «Физтех». Технические характеристики: Корпус 1.3, первая линия. Угловое помещение общей площадью – 50,6 кв. м., 1 этаж. Отдельный вход. Большие витринные окна. Высокие потолки – 5.7 м. Открытая планировка. Мокрая точка. Электрическая мощность – 10 кВт. Свободная планировка. Состояние помещения – под отделку. Ключи – 4 квартал 2026 года. Коммерческие условия: Стоимость объекта : 26 900 000 руб. Стоимость за 1 кв. м. – 531 621 руб. Арендатор: федеральная сеть аптек «Горздрав». Подписан предварительный договор аренды, далее ДДА 5лет МАП: 200 000 руб. ГАП: 2 400 000 рублей Коммунальные услуги оплачиваются отдельно. Безусловная индексация 5% с 3 года.",
+    "price_rub": "26900000",
+    "area_m2": "50.6",
+    "address": "жилой комплекс 1-й Химкинский, к1.3",
+    "map_url": "https://yandex.ru/maps/?text=%D0%B6%D0%B8%D0%BB%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%201-%D0%B9%20%D0%A5%D0%B8%D0%BC%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%2C%20%D0%BA1.3",
+    "map_url_generated": true,
+    "metro": "Химки,Ховрино",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": "-",
+    "photos": [
+      "https://s5d.ru/images-580002-p3x4?1786970189",
+      "https://s5d.ru/images-581665-p3x4?1787578429",
+      "https://s5d.ru/images-581657-p3x4?1787578398",
+      "https://s5d.ru/images-581656-p3x4?1787578398",
+      "https://s5d.ru/images-581655-p3x4?1787578397",
+      "https://s5d.ru/images-581654-p3x4?1787578397",
+      "https://s5d.ru/images-581653-p3x4?1787578395",
+      "https://s5d.ru/images-579988-p3x4?1786968769"
+    ],
+    "tenants": [
+      {
+        "name": "Горздрав",
+        "status": "future",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Подписан предварительный договор аренды, далее ДДА 5лет МАП: 200 000 руб.",
+        "indexation_raw": "Безусловная индексация 5% с 3 года.",
+        "rent_current_rub": null,
+        "rent_future_rub": "200000",
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Горздрав». Подписан предварительный договор аренды, далее ДДА 5лет МАП: 200 000 руб. ГАП: 2 400 000 рублей Коммунальные услуги оплачиваются отдельно. Безусловная индексация 5% с 3 года."
+      }
+    ],
+    "rent_current_rub": null,
+    "rent_future_rub": "200000",
+    "payback_years": null,
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "26 900 000 RUB | за все",
+        "location": ".price-article"
+      },
+      {
+        "field": "rent",
+        "text": "Общий МАП: 200 000 RUB",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Горздрав». Подписан предварительный договор аренды, далее ДДА 5лет МАП: 200 000 руб. ГАП: 2 400 000 рублей Коммунальные услуги оплачиваются отдельно. Безусловная индексация 5% с 3 года.",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "price_rub",
+        "text": "Стоимость объекта : 26 900 000 руб",
+        "location": "description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [
+      "Текущий МАП не подтверждён; окупаемость не рассчитана."
+    ],
+    "requested_category": "future_tenant",
+    "replacement_note": null,
+    "html_file": "samples/html/s5d/162927.html",
+    "html_sha256": "87537c082d483daf22222489f14e052ca0981231396becc35c8e5b48ff6fee72"
+  },
+  "nfgroup:s234197": {
+    "source": "nfgroup",
+    "listing_id": "s234197",
+    "url": "https://kf.expert/retail/ul-lobachevskogo-d-2-s234197",
+    "collected_at": "2026-11-21T13:39:45.122517Z",
+    "last_successful_check_at": "2026-11-21T13:39:45.122517Z",
+    "status": "active",
+    "title": "ул. Лобачевского, д. 2, торговая площадь 1197.6 м² - готовый арендный бизнес",
+    "description": "Предлагается к продаже ГАБ с магазином Перекресток, расположенный в густонаселенном жилом массиве на западе Москвы. Пересечение ул. Лобачевского и Ленинского проспекта. Интенсивный пешеходный трафик, рядом остановка общественного транспорта. Договор аренды до 2037 года, ежегодная безусловная индексация 4%. Все коммунальные и эксплуатационные расходы на арендаторе.",
+    "price_rub": "250000000",
+    "area_m2": "1197.60",
+    "address": "Москва Лобачевского ул., 2",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%9B%D0%BE%D0%B1%D0%B0%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%BB.%2C%202",
+    "map_url_generated": true,
+    "metro": null,
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://extpic5.kf.expert/images/9C408F70-70D2-EF11-92AA-005056BCE966/nfg_wm/76DCC77C-70D2-EF11-92AA-005056BCE966.jpg",
+      "https://media.kf.expert/employees/0/222/irina-kozina-new.png"
+    ],
+    "tenants": [
+      {
+        "name": "Перекресток",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Договор аренды до 2037 года, ежегодная безусловная индексация 4%.",
+        "indexation_raw": "Договор аренды до 2037 года, ежегодная безусловная индексация 4%.",
+        "rent_current_rub": "1830000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Предлагается к продаже ГАБ с магазином Перекресток, расположенный в густонаселенном жилом массиве на западе Москвы. Пересечение ул. Лобачевского и Ленинского проспекта. Интенсивный пешеходный трафик, рядом остановка общественного транспорта. Договор аренды до 2037 года, ежегодная безусловная индексация 4%. Все коммунальные и эксплуатационные расходы на арендаторе."
+      }
+    ],
+    "rent_current_rub": "1830000",
+    "rent_future_rub": null,
+    "payback_years": "11.38",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "250 000 000",
+        "location": ".detail-price__price-item (RUB)"
+      },
+      {
+        "field": "rent",
+        "text": "МАП: 1 830 000 ₽/мес.",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Предлагается к продаже ГАБ с магазином Перекресток, расположенный в густонаселенном жилом массиве на западе Москвы. Пересечение ул. Лобачевского и Ленинского проспекта. Интенсивный пешеходный трафик, рядом остановка общественного транспорта. Договор аренды до 2037 года, ежегодная безусловная индексация 4%. Все коммунальные и эксплуатационные расходы на арендаторе.",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "supermarket",
+    "replacement_note": null,
+    "html_file": "samples/html/nfgroup/s234197.html",
+    "html_sha256": "e7bcd43076a4012a86fd6d1cc03103258d1ae6a2f38865ce788d475a29ca80fb"
+  },
+  "nfgroup:s239664": {
+    "source": "nfgroup",
+    "listing_id": "s239664",
+    "url": "https://kf.expert/retail/street-retail/chistoprudnyj-bulvar-d-2-s239664",
+    "collected_at": "2026-11-21T13:30:39.739038Z",
+    "last_successful_check_at": "2026-11-21T13:30:39.739038Z",
+    "status": "active",
+    "title": "Чистопрудный Бульвар д. 2, торговая площадь 46.6 м² - готовый арендный бизнес",
+    "description": "Помещение свободного назначения формата Street Retail в ЦАО Москвы. Рядом станция метро Чистые пруды. Активный пешеходный и автомобильный трафик. Высота потолков от 4,2 до 4,6 м. Арендатор: Аптека 36,6. МАП: 730 000 руб.",
+    "price_rub": "120000000",
+    "area_m2": "46.60",
+    "address": "Москва Чистопрудный б-р, 2",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%A7%D0%B8%D1%81%D1%82%D0%BE%D0%BF%D1%80%D1%83%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%B1-%D1%80%2C%202",
+    "map_url_generated": true,
+    "metro": "Сретенский Бульвар, Тургеневская, Чистые Пруды",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://extpic5.kf.expert/images/ADDB983F-EA79-F111-92A4-005056BC1903/nfg_wm/8A5BA715-EDBB-F111-92B7-005056BC1778.jpg",
+      "https://extpic5.kf.expert/images/CB186893-238B-EC11-B830-0050568C58C5/nfg_wm/AD7C786C-1764-F111-92B7-005056BC1778.jpg",
+      "https://extpic5.kf.expert/images/CB186893-238B-EC11-B830-0050568C58C5/nfg_wm/26224E65-1764-F111-92B7-005056BC1778.jpg",
+      "https://extpic5.kf.expert/images/CB186893-238B-EC11-B830-0050568C58C5/nfg_wm/20224E65-1764-F111-92B7-005056BC1778.jpg",
+      "https://extpic5.kf.expert/images/CB186893-238B-EC11-B830-0050568C58C5/nfg_wm/8322565F-1764-F111-92B7-005056BC1778.jpg",
+      "https://extpic5.kf.expert/images/CB186893-238B-EC11-B830-0050568C58C5/nfg_wm/5F22565F-1764-F111-92B7-005056BC1778.jpg",
+      "https://extpic5.kf.expert/images/CB186893-238B-EC11-B830-0050568C58C5/nfg_wm/65CC6158-1764-F111-92B7-005056BC1778.jpg",
+      "https://media.kf.expert/employees/0/222/irina-kozina-new.png"
+    ],
+    "tenants": [
+      {
+        "name": "Аптека 36,6",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": "730000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Аптека 36,6. МАП: 730 000 руб."
+      }
+    ],
+    "rent_current_rub": "730000",
+    "rent_future_rub": null,
+    "payback_years": "13.70",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "120 000 000",
+        "location": ".detail-price__price-item (RUB)"
+      },
+      {
+        "field": "rent",
+        "text": "МАП: 730 000 ₽/мес.",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Аптека 36,6. МАП: 730 000 руб.",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "pharmacy",
+    "replacement_note": null,
+    "html_file": "samples/html/nfgroup/s239664.html",
+    "html_sha256": "71d6323100ace508f21137f4f9a6959fd3175c38ef6b254f1f4118e9ca1ee617"
+  },
+  "nfgroup:s231528": {
+    "source": "nfgroup",
+    "listing_id": "s231528",
+    "url": "https://kf.expert/retail/cloud-nine-s231528",
+    "collected_at": "2026-11-21T13:30:40.908221Z",
+    "last_successful_check_at": "2026-11-21T13:30:40.908221Z",
+    "status": "active",
+    "title": "Cloud Nine, торговая площадь 72.8 м² - готовый арендный бизнес",
+    "description": "Предлагается помещение в новом ЖК \"Cloud Nine\" . В Помещение располагается в 5 минутах от Кремля, рядом остановка общественного транспорта. Ближайшее метро: Полянка. Арендатор - Красное и белое, долгосрочный договор аренды на 10 лет, получена алкогольная лицензия, МАП - 360 000 руб., индексация 5%. ДА на 10 лет.",
+    "price_rub": null,
+    "area_m2": "72.80",
+    "address": "Москва Большая Полянка ул., 9",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%BA%D0%B0%20%D1%83%D0%BB.%2C%209",
+    "map_url_generated": true,
+    "metro": "Полянка",
+    "vat": "не применим",
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://extpic5.kf.expert/images/AD5F8798-7196-ED11-B852-0050568CD600/nfg_wm/B1549A56-0824-F011-92AC-005056BCE966.jpg",
+      "https://extpic5.kf.expert/images/AD5F8798-7196-ED11-B852-0050568CD600/nfg_wm/5F549A56-0824-F011-92AC-005056BCE966.jpg",
+      "https://extpic5.kf.expert/images/AD5F8798-7196-ED11-B852-0050568CD600/nfg_wm/C4549A56-0824-F011-92AC-005056BCE966.jpg",
+      "https://extpic5.kf.expert/images/AD5F8798-7196-ED11-B852-0050568CD600/nfg_wm/9984975C-0824-F011-92AC-005056BCE966.jpg",
+      "https://extpic5.kf.expert/images/AD5F8798-7196-ED11-B852-0050568CD600/nfg_wm/B084975C-0824-F011-92AC-005056BCE966.jpg",
+      "https://extpic5.kf.expert/images/AD5F8798-7196-ED11-B852-0050568CD600/nfg_wm/C784975C-0824-F011-92AC-005056BCE966.jpg",
+      "https://media.kf.expert/employees/0/222/irina-kozina-new.png"
+    ],
+    "tenants": [
+      {
+        "name": "Красное и белое",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "Красное и белое, долгосрочный договор аренды на 10 лет, получена алкогольная лицензия, МАП - 360 000 руб., индексация 5%.\nДА на 10 лет.",
+        "indexation_raw": "Красное и белое, долгосрочный договор аренды на 10 лет, получена алкогольная лицензия, МАП - 360 000 руб., индексация 5%.",
+        "rent_current_rub": "360000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Красное и белое, долгосрочный договор аренды на 10 лет, получена алкогольная лицензия, МАП - 360 000 руб., индексация 5%. ДА на 10 лет."
+      }
+    ],
+    "rent_current_rub": "360000",
+    "rent_future_rub": null,
+    "payback_years": null,
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "Цена по запросу",
+        "location": ".detail-price__price-item (RUB)"
+      },
+      {
+        "field": "rent",
+        "text": "МАП: 360 000 ₽/мес.",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Красное и белое, долгосрочный договор аренды на 10 лет, получена алкогольная лицензия, МАП - 360 000 руб., индексация 5%. ДА на 10 лет.",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "alcohol_store",
+    "replacement_note": null,
+    "html_file": "samples/html/nfgroup/s231528.html",
+    "html_sha256": "43e24c1b87d08046040e3fea19cad4decace5e56a7ba9ab192246f28c007d8d2"
+  },
+  "nfgroup:s238278": {
+    "source": "nfgroup",
+    "listing_id": "s238278",
+    "url": "https://kf.expert/retail/pomeschenie/abramtsevskaya-d-9-k-1-s238278",
+    "collected_at": "2026-11-21T14:05:16.192179Z",
+    "last_successful_check_at": "2026-11-21T14:05:16.192179Z",
+    "status": "active",
+    "title": "Абрамцевская д. 9 к. 1, торговая площадь 103.3 м² - готовый арендный бизнес",
+    "description": "Угловое помещение свободного назначения формата Street Retail в СВАО Москвы. Расположено на первом этаже жилого 12-ти этажного дома. 15 минут пешком до станции метро Алтуфьево. Удобная парковка перед фасадом. Напротив автобусная остановка. Арендаторы: Аптека Апрель, OZON, Wildberries. Общий МАП: 280 000 руб.",
+    "price_rub": "35500000",
+    "area_m2": "103.30",
+    "address": "Москва Абрамцевская ул., 9, к. 1",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%209%2C%20%D0%BA.%201",
+    "map_url_generated": true,
+    "metro": "Алтуфьево",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://extpic5.kf.expert/images/24ED0E92-77FB-F011-92B6-005056BC1778/nfg_wm/5D2954EA-77FB-F011-92B6-005056BC1778.jpg",
+      "https://extpic5.kf.expert/images/24ED0E92-77FB-F011-92B6-005056BC1778/nfg_wm/3C2954EA-77FB-F011-92B6-005056BC1778.jpg",
+      "https://extpic5.kf.expert/images/24ED0E92-77FB-F011-92B6-005056BC1778/nfg_wm/742954EA-77FB-F011-92B6-005056BC1778.jpg",
+      "https://extpic5.kf.expert/images/24ED0E92-77FB-F011-92B6-005056BC1778/nfg_wm/DC2A50E4-77FB-F011-92B6-005056BC1778.jpg",
+      "https://media.kf.expert/employees/0/222/irina-kozina-new.png"
+    ],
+    "tenants": [
+      {
+        "name": "Аптека Апрель",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Аптека Апрель,"
+      },
+      {
+        "name": "OZON",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": null,
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "OZON,"
+      },
+      {
+        "name": "Wildberries",
+        "status": "current",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": null,
+        "indexation_raw": null,
+        "rent_current_rub": "280000",
+        "rent_future_rub": null,
+        "rate_start": null,
+        "rate_start_raw": null,
+        "rent_steps": [],
+        "turnover_formula_raw": null,
+        "source_excerpt": "Wildberries. Общий МАП: 280 000 руб."
+      }
+    ],
+    "rent_current_rub": "280000",
+    "rent_future_rub": null,
+    "payback_years": "10.57",
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "35 500 000",
+        "location": ".detail-price__price-item (RUB)"
+      },
+      {
+        "field": "rent",
+        "text": "МАП: 280 000 ₽/мес.",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Аптека Апрель,",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "tenants[1]",
+        "text": "OZON,",
+        "location": "tenant table / description"
+      },
+      {
+        "field": "tenants[2]",
+        "text": "Wildberries. Общий МАП: 280 000 руб.",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [],
+    "requested_category": "multiple_tenants",
+    "replacement_note": null,
+    "html_file": "samples/html/nfgroup/s238278.html",
+    "html_sha256": "48d94e68180867aad977adc1468843f7e2fcf898ac8834ce4cd530f05e4061d4"
+  },
+  "nfgroup:s240311": {
+    "source": "nfgroup",
+    "listing_id": "s240311",
+    "url": "https://kf.expert/retail/street-retail/dubninskaya-d-37-k-2-s240311",
+    "collected_at": "2026-11-21T13:30:43.526399Z",
+    "last_successful_check_at": "2026-11-21T13:30:43.526399Z",
+    "status": "active",
+    "title": "Дубнинская д. 37 к. 2, торговая площадь 542.1 м² - готовый арендный бизнес",
+    "description": "Помещение свободного назначения формата Street Retail в ЦАО Москвы. 10 минут пешком до станции метро Селигерская. Плотный жилой массив. Рядом выезд на Бескудниковский бульвар. Арендатор: Пятёрочка. МАП: 6% от РТО, но не менее 1 400 000 руб. Индексация: 5%. 1-6 месяц 900 000 руб. 7-12 месяц 1 100 000 руб. 13-18 месяц 1 300 000 руб. С 19-го месяца 1 400 000 руб. ДДА на 10 лет. Открытие магазина: декабрь 2026 г.",
+    "price_rub": "145000000",
+    "area_m2": "542.10",
+    "address": "Москва Дубнинская ул., 37, к. 2",
+    "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%2037%2C%20%D0%BA.%202",
+    "map_url_generated": true,
+    "metro": "Селигерская",
+    "vat": null,
+    "commission": null,
+    "owner": null,
+    "ownership_form": null,
+    "photos": [
+      "https://extpic5.kf.expert/images/39A5212D-88D3-F111-92B8-005056BC1778/nfg_wm/4F9D4D92-88D3-F111-92B8-005056BC1778.jpg",
+      "https://extpic5.kf.expert/images/39A5212D-88D3-F111-92B8-005056BC1778/nfg_wm/1BA87598-88D3-F111-92B8-005056BC1778.jpg",
+      "https://extpic5.kf.expert/images/39A5212D-88D3-F111-92B8-005056BC1778/nfg_wm/0EA87598-88D3-F111-92B8-005056BC1778.jpg",
+      "https://media.kf.expert/employees/0/222/irina-kozina-new.png"
+    ],
+    "tenants": [
+      {
+        "name": "Пятёрочка",
+        "status": "future",
+        "lease_start": null,
+        "lease_end": null,
+        "lease_term_raw": "ДДА на 10 лет.",
+        "indexation_raw": "Индексация: 5%. 1-6 месяц 900 000 руб. 7-12 месяц 1 100 000 руб. 13-18 месяц 1 300 000 руб.",
+        "rent_current_rub": null,
+        "rent_future_rub": "1400000",
+        "rate_start": null,
+        "rate_start_raw": "1-6 месяц 900 000 руб",
+        "rent_steps": [
+          {
+            "amount_rub": "900000",
+            "from_date": null,
+            "from_month": 1,
+            "to_month": 6,
+            "raw": "1-6 месяц 900 000 руб"
+          },
+          {
+            "amount_rub": "1100000",
+            "from_date": null,
+            "from_month": 7,
+            "to_month": 12,
+            "raw": "7-12 месяц 1 100 000 руб"
+          },
+          {
+            "amount_rub": "1300000",
+            "from_date": null,
+            "from_month": 13,
+            "to_month": 18,
+            "raw": "13-18 месяц 1 300 000 руб"
+          },
+          {
+            "amount_rub": "1400000",
+            "from_date": null,
+            "from_month": 19,
+            "to_month": null,
+            "raw": "С 19-го месяца 1 400 000 руб"
+          }
+        ],
+        "turnover_formula_raw": "МАП: 6% от РТО, но не менее 1 400 000 руб.",
+        "source_excerpt": "Пятёрочка. МАП: 6% от РТО, но не менее 1 400 000 руб. Индексация: 5%. 1-6 месяц 900 000 руб. 7-12 месяц 1 100 000 руб. 13-18 месяц 1 300 000 руб. С 19-го месяца 1 400 000 руб. ДДА на 10 лет. Открытие магазина: декабрь 2026 г."
+      }
+    ],
+    "rent_current_rub": null,
+    "rent_future_rub": "1400000",
+    "payback_years": null,
+    "evidence": [
+      {
+        "field": "price_rub",
+        "text": "145 000 000",
+        "location": ".detail-price__price-item (RUB)"
+      },
+      {
+        "field": "rent",
+        "text": "МАП: 1 400 000 ₽/мес.",
+        "location": "rent summary"
+      },
+      {
+        "field": "tenants[0]",
+        "text": "Пятёрочка. МАП: 6% от РТО, но не менее 1 400 000 руб. Индексация: 5%. 1-6 месяц 900 000 руб. 7-12 месяц 1 100 000 руб. 13-18 месяц 1 300 000 руб. С 19-го месяца 1 400 000 руб. ДДА на 10 лет. Открытие магазина: декабрь 2026 г.",
+        "location": "tenant table / description"
+      }
+    ],
+    "discrepancies": [],
+    "warnings": [
+      "Текущий МАП не подтверждён; окупаемость не рассчитана."
+    ],
+    "requested_category": "future_tenant",
+    "replacement_note": null,
+    "html_file": "samples/html/nfgroup/s240311.html",
+    "html_sha256": "5465521dc5f7ee78bf4fe4bae77f9002cc0f8c7af732690e720df161cd119f8c"
+  }
+}

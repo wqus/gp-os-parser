@@ -1,0 +1,178 @@
+[
+  {
+    "source": "intermark",
+    "url": "https://intermark.ru/objects/arendnyy-biznes-moskovskaya-oblast-balashiha-mikrorayon-pavlino-15-2-7536",
+    "category": "supermarket",
+    "html_file": "samples/html/intermark/7536.html",
+    "collected_at": "2026-11-21T13:30:38.344710+00:00"
+  },
+  {
+    "source": "intermark",
+    "url": "https://intermark.ru/objects/arendnyy-biznes-zapadnyy-3-4289",
+    "category": "pharmacy",
+    "html_file": "samples/html/intermark/4289.html",
+    "collected_at": "2026-11-21T13:30:39.723118+00:00"
+  },
+  {
+    "source": "intermark",
+    "url": "https://intermark.ru/objects/arendnyy-biznes-moskva-voroncovskaya-ulica-34s1-7264",
+    "category": "alcohol_store",
+    "html_file": "samples/html/intermark/7264.html",
+    "collected_at": "2026-11-21T13:30:40.884686+00:00"
+  },
+  {
+    "source": "intermark",
+    "url": "https://intermark.ru/objects/arendnyy-biznes-moskva-ulica-vertoletchikov-2ak1-7267",
+    "category": "multiple_tenants",
+    "html_file": "samples/html/intermark/7267.html",
+    "collected_at": "2026-11-21T13:30:42.230155+00:00"
+  },
+  {
+    "source": "intermark",
+    "url": "https://intermark.ru/objects/arendnyy-biznes-moskva-klinskaya-ulica-2a-7460",
+    "category": "future_tenant",
+    "html_file": "samples/html/intermark/7460.html",
+    "collected_at": "2026-11-21T13:30:43.638484+00:00",
+    "replacement_note": "В просмотренной продаже и поисковой выдаче Intermark не найдена карточка с подтверждённым будущим арендатором. Замена: действующая кофейня «Здрасте» с условиями договора и индексации. Арендатор не помечен как будущий."
+  },
+  {
+    "source": "malina",
+    "url": "https://malinaproperty.ru/property/propertiesRetail/169668",
+    "category": "supermarket",
+    "html_file": "samples/html/malina/169668.html",
+    "collected_at": "2026-11-21T13:30:38.265656+00:00"
+  },
+  {
+    "source": "malina",
+    "url": "https://malinaproperty.ru/property/propertiesRetail/190232",
+    "category": "pharmacy",
+    "html_file": "samples/html/malina/190232.html",
+    "collected_at": "2026-11-21T13:30:39.458332+00:00"
+  },
+  {
+    "source": "malina",
+    "url": "https://malinaproperty.ru/property/propertiesRetail/178416",
+    "category": "alcohol_store",
+    "html_file": "samples/html/malina/178416.html",
+    "collected_at": "2026-11-21T13:30:40.808823+00:00"
+  },
+  {
+    "source": "malina",
+    "url": "https://malinaproperty.ru/property/propertiesRetail/187384",
+    "category": "multiple_tenants",
+    "html_file": "samples/html/malina/187384.html",
+    "collected_at": "2026-11-21T13:30:42.135329+00:00"
+  },
+  {
+    "source": "malina",
+    "url": "https://malinaproperty.ru/property/propertiesRetail/184150",
+    "category": "future_tenant",
+    "html_file": "samples/html/malina/184150.html",
+    "collected_at": "2026-11-21T13:30:43.513834+00:00"
+  },
+  {
+    "source": "invest7",
+    "url": "https://invest7.ru/lots/868109",
+    "category": "supermarket",
+    "html_file": "samples/html/invest7/868109.html",
+    "collected_at": "2026-11-21T13:30:38.305969+00:00"
+  },
+  {
+    "source": "invest7",
+    "url": "https://invest7.ru/lots/1119719",
+    "category": "pharmacy",
+    "html_file": "samples/html/invest7/1119719.html",
+    "collected_at": "2026-11-21T13:30:39.594913+00:00"
+  },
+  {
+    "source": "invest7",
+    "url": "https://invest7.ru/lots/895007",
+    "category": "alcohol_store",
+    "html_file": "samples/html/invest7/895007.html",
+    "collected_at": "2026-11-21T13:30:40.888456+00:00"
+  },
+  {
+    "source": "invest7",
+    "url": "https://invest7.ru/lots/1115746",
+    "category": "multiple_tenants",
+    "html_file": "samples/html/invest7/1115746.html",
+    "collected_at": "2026-11-21T13:30:42.748904+00:00"
+  },
+  {
+    "source": "invest7",
+    "url": "https://invest7.ru/lots/1108081",
+    "category": "future_tenant",
+    "html_file": "samples/html/invest7/1108081.html",
+    "collected_at": "2026-11-21T13:30:44.088846+00:00"
+  },
+  {
+    "source": "s5d",
+    "url": "https://www.s5d.ru/object/162850",
+    "category": "supermarket",
+    "html_file": "samples/html/s5d/162850.html",
+    "collected_at": "2026-11-21T13:30:39.158296+00:00"
+  },
+  {
+    "source": "s5d",
+    "url": "https://www.s5d.ru/object/20276",
+    "category": "pharmacy",
+    "html_file": "samples/html/s5d/20276.html",
+    "collected_at": "2026-11-21T13:30:41.403440+00:00"
+  },
+  {
+    "source": "s5d",
+    "url": "https://www.s5d.ru/object/152526",
+    "category": "alcohol_store",
+    "html_file": "samples/html/s5d/152526.html",
+    "collected_at": "2026-11-21T13:30:43.941699+00:00"
+  },
+  {
+    "source": "s5d",
+    "url": "https://www.s5d.ru/object/145572",
+    "category": "multiple_tenants",
+    "html_file": "samples/html/s5d/145572.html",
+    "collected_at": "2026-11-21T13:39:45.751772+00:00"
+  },
+  {
+    "source": "s5d",
+    "url": "https://www.s5d.ru/object/162927",
+    "category": "future_tenant",
+    "html_file": "samples/html/s5d/162927.html",
+    "collected_at": "2026-11-21T13:30:48.234720+00:00"
+  },
+  {
+    "source": "nfgroup",
+    "url": "https://kf.expert/retail/ul-lobachevskogo-d-2-s234197",
+    "category": "supermarket",
+    "html_file": "samples/html/nfgroup/s234197.html",
+    "collected_at": "2026-11-21T13:39:45.122517+00:00"
+  },
+  {
+    "source": "nfgroup",
+    "url": "https://kf.expert/retail/street-retail/chistoprudnyj-bulvar-d-2-s239664",
+    "category": "pharmacy",
+    "html_file": "samples/html/nfgroup/s239664.html",
+    "collected_at": "2026-11-21T13:30:39.739038+00:00"
+  },
+  {
+    "source": "nfgroup",
+    "url": "https://kf.expert/retail/cloud-nine-s231528",
+    "category": "alcohol_store",
+    "html_file": "samples/html/nfgroup/s231528.html",
+    "collected_at": "2026-11-21T13:30:40.908221+00:00"
+  },
+  {
+    "source": "nfgroup",
+    "url": "https://kf.expert/retail/pomeschenie/abramtsevskaya-d-9-k-1-s238278",
+    "category": "multiple_tenants",
+    "html_file": "samples/html/nfgroup/s238278.html",
+    "collected_at": "2026-11-21T14:05:16.192179+00:00"
+  },
+  {
+    "source": "nfgroup",
+    "url": "https://kf.expert/retail/street-retail/dubninskaya-d-37-k-2-s240311",
+    "category": "future_tenant",
+    "html_file": "samples/html/nfgroup/s240311.html",
+    "collected_at": "2026-11-21T13:30:43.526399+00:00"
+  }
+]

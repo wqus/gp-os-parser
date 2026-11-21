@@ -1,0 +1,15 @@
+services:
+  collector:
+    build: .
+    ports:
+      - "127.0.0.1:8001:8001"
+    environment:
+      GP_OS_DATA_DIR: /app/data
+      GP_OS_TIMEZONE: Europe/Moscow
+      GP_OS_RUN_AT: "03:00"
+      GP_OS_SCHEDULE_ENABLED: "true"
+    volumes:
+      - collector_data:/app/data
+    restart: unless-stopped
+volumes:
+  collector_data:
